@@ -32,4 +32,5 @@ Not everybody filled out the topic field, but the component field had all the gr
 I ran the script in several takes and generated 7 different `out_pr_list.csv` files that I later combined into the `main_out_pr_list.csv` file. There were 12694 scraped releases but the input file still had 14421 lines according to sublime. 
 
 *Maybe there are some empty lines somewhere in the middle?*
-I just checked the `out_url_list_withID.csv` and found no empty lines in the middle. The file has 14421 lines but 12694 press releases.
+I just checked the `out_url_list_withID.csv` and found no empty lines in the middle. The file has 14421 lines but 12694 press releases. I'm not sure what the other 1727 lines are.
+
