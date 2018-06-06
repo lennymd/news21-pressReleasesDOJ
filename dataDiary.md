@@ -1,6 +1,6 @@
 # Data Diary: DoJ press releases
 
-Going through the press releases scraped from the DoJ's website. 
+Going through the press releases scraped from the DoJ's website. I'm doing this to understand who's actively working on prosecuting hate crimes, who are the people being convicted of hate crimes@@
 
 ## June 5, 2018
 
@@ -65,3 +65,19 @@ The other files are:
 The above two files are meant for emergencies (if no internet or we want to scrape more or they take down the press release).
 
 * `scrape_pressRelease/pressReleases_txt/` contains all the body text for each press release.  Sometimes a None was appended to the end of the file when there was an extra return or paragraph tag in the html. Still haven't figured out how to delete them, but I don't think I have to worry too much about that for now.
+
+
+## June 06, 2018
+
+After I had scraped the text from the press releases, I uploaded them to [overviewdocs](https://www.overviewdocs.com/) and today am beginning work on tagging and sifting through them. My goal is to get all the press releases related to hate and bias-motivated crimes so that I can then extract the people involved in them (victims, perpetrators, and prosecutors).
+
+The first thing I tried was the Entities view which went through all 12694 press releases and identified entities, how often they appeared (counts) and in how many docs they appeared (docs). I used the default settings which searched for Companies, Cities, Countries, Political Boundaries, Numbers and then removed English: Google Book words, and Numbers.  This wasn't that helpful becaused I have to go through the entity list and exclude all the other things I don't care about to try and get the entities that look like names. 
+
+Next thing I tried was to search for "hate crimes" (without quotes) throughout the press releases. I got 125 press releases that had that phrase in them. Now I'm going through each one and checking if it fits into one of the following categories: 
+indictment, guilty plea, sentencing, conviction, or charge to try and get a breakdown of what each release is talking about. 
+
+To identify the guilty pleas I used the search terms "pleaded guilty","guilty" on the set of press releases in the "hate crime" group I had previously found. 38 of the 125 press releases are about guilty pleas.
+
+To identify releases related to sentencing, I used the search term "sentenced" on the group of 125 press releases related to hate crimes. 32 of the 125 press releases are about sentencings.
+
+To identify releases related to indictments, I used the search terms "indicted" and "indictment" on the group of 125 releases. 
