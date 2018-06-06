@@ -106,9 +106,11 @@ After a quick break I decided to cycle through the entire corpus of releases and
 
 After searching for all releases with "hate crime" in the release, I went through and looked for other terms. Phrases I used that returned releases to add to the corpus were: "bias motivated", "Matthew Shepard and James Byrd", "racially motivated".
 
-In going through the tagging with the term "racially motivated", `pressReleases_txt/release_02561.txt` is interesting because it talks about a case that has ended up as a guilty plea and is not listed as a hate crime but has the racial motivation. Need to check with Sarah if this counts for what we're tagging. **Do we count racially motivated crimes as part of the hate crimes? I'm asking this because hate crimes are under the broader umbrella of civil rights crimes.** 
+In going through the tagging with the term "racially motivated", `pressReleases_txt/release_02561.txt` is interesting because it talks about a case that has ended up as a guilty plea and is not listed as a hate crime but has the racial motivation. Need to check with Sarah if this counts for what we're tagging. **Do we count racially motivated crimes as part of the hate crimes? I'm asking this because hate crimes are under the broader umbrella of civil rights crimes.**
 
- "gender identity", "religiously motivated"
+From looking at other releases, they will state "federal hate crime" as one of the charges or list the actual act that was violated. They're pretty clear on this. 
 
-I tried searching with the phrases "sexual identity", "sexual identity motivated", "religion motivated", "sexual orientation motivated", "bias incident", "hate incident", "bias crime", "bias motivated incident".
+Terms I'm planning to look through next are: "sexual orientation", "gender identity", "religiously motivated". I'll also look at the terms that may include the hate crime laws: "Fair Housing Act", "federal hate", "federal hate crime", "Criminal Interference with Right to Fair Housing", "housing rights", "damage to religious property", "church arson", "Damage to Religious Property, Church Arson Prevention Act", "Conspiracy Against Rights", "Violent Interference with Federally Protected Rights".
+
+I tried searching with the phrases "sexual identity", "sexual identity motivated", "religion motivated", "sexual orientation motivated", "bias incident", "hate incident", "bias crime", "bias motivated incident" but got no results.
 
