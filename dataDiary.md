@@ -110,7 +110,41 @@ In going through the tagging with the term "racially motivated", `pressReleases_
 
 From looking at other releases, they will state "federal hate crime" as one of the charges or list the actual act that was violated. They're pretty clear on this. 
 
-Terms I'm planning to look through next are: "sexual orientation", "gender identity", "religiously motivated". I'll also look at the terms that may include the hate crime laws: "Fair Housing Act", "federal hate", "federal hate crime", "Criminal Interference with Right to Fair Housing", "housing rights", "damage to religious property", "church arson", "Damage to Religious Property, Church Arson Prevention Act", "Conspiracy Against Rights", "Violent Interference with Federally Protected Rights".
-
 I tried searching with the phrases "sexual identity", "sexual identity motivated", "religion motivated", "sexual orientation motivated", "bias incident", "hate incident", "bias crime", "bias motivated incident" but got no results.
+
+Before talking to Sarah, I looked at the terms: "sexual orientation", and "gender identity". 
+I was going to look at other terms: "religiously motivated", "Fair Housing Act", "federal hate", "federal hate crime", "Criminal Interference with Right to Fair Housing", "housing rights", "damage to religious property", "church arson", "Damage to Religious Property, Church Arson Prevention Act", "Conspiracy Against Rights", "Violent Interference with Federally Protected Rights". But talking we Sarah we decided a new course of action. Since we're not looking for statistical analysis of the press releases and are using it to find the people and district information I'm going to take the 165 press releases I've managed to tag at this point (some do have overlapping tags) and work with the Open Calais API to identify all the people and locations in them with the goal of identifying the most common prosecutors and districts involved with prosecuting hate crimes. 
+
+The work for this can be found in the notebook [`/notebooks/openCalais.ipynb`](/notebooks/openCalais.ipynb).
+
+Although I'm leaving it for now this is the final count on tags associated with the press releases: 
+* toSearch: 165
+* Fair Housing Act: 6
+* racially motivated: 1
+* holder: 0
+* james byrd: 1
+* announcement: 1
+* community relations service: 1
+* Matthew Shepard and James Byrd: 17
+* bias motivated: 8
+* settlement: 1
+* case: 1
+* civil rights division: 1
+* unc chapel hill: 1
+* zimmerman: 1
+* meeting: 1
+* lynch: 1
+* church fires: 1
+* restitution: 1
+* resignation: 2
+* hate crime statistics: 1
+* arrest: 3
+* charged: 7
+* conviction: 11
+* guilty plea: 54
+* indictment: 30
+* sentencing: 44
+* Hate Crime: 163
+
+I still need to go throug the USAO's [Justice 101](https://www.justice.gov/usao/justice-101).  
 
