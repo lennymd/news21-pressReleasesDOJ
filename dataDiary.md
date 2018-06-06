@@ -1,6 +1,6 @@
 # Data Diary: DoJ press releases
 
-Going through the press releases scraped from the DoJ's website. I'm doing this to understand who's actively working on prosecuting hate crimes, who are the people being convicted of hate crimes@@
+Going through the press releases scraped from the DoJ's website. I'm doing this to understand who has been prosecuting hate crimes in the DoJ and who has been prosecuted for committing hate crimes. I hope to get names of prosecutors, information about cases, districts where prosecutions have happened, information about the people prosecuted for hate crimes, the frequency of hate crime laws that have been prosecuted over the years. 
 
 ## June 5, 2018
 
@@ -76,8 +76,39 @@ The first thing I tried was the Entities view which went through all 12694 press
 Next thing I tried was to search for "hate crimes" (without quotes) throughout the press releases. I got 125 press releases that had that phrase in them. Now I'm going through each one and checking if it fits into one of the following categories: 
 indictment, guilty plea, sentencing, conviction, or charge to try and get a breakdown of what each release is talking about. 
 
-To identify the guilty pleas I used the search terms "pleaded guilty","guilty" on the set of press releases in the "hate crime" group I had previously found. 38 of the 125 press releases are about guilty pleas.
+To identify the guilty pleas I used the search terms "pleaded guilty","guilty" on the set of press releases in the "hate crime" group I had previously found. 39 of the 125 press releases are about guilty pleas.
 
 To identify releases related to sentencing, I used the search term "sentenced" on the group of 125 press releases related to hate crimes. 32 of the 125 press releases are about sentencings.
 
-To identify releases related to indictments, I used the search terms "indicted" and "indictment" on the group of 125 releases. 
+To identify releases related to indictments, I used the search terms "indicted" and "indictment" on the group of 125 releases. 26 of the 125 press releases are about indictments.
+
+I created a new category of "arrest" types since some releases had to do with arrests. After I finish tagging the 125 releases, I'll go through USAO's [Justice 101](https://www.justice.gov/usao/justice-101) to make sure the categories are tagged properly. 
+
+After a quick break I decided to cycle through the entire corpus of releases and tag/review the tags. At the end I have the following set of tags oof the 125 releases:
+
+* arrest: 2 releases dealt with arrests.
+* case: 1 release was about the initial court appearance of John W. Ng of Albuquerque, N.M.
+* civil rights division: 1 release was about the Civil Rights Division's work in 2013.
+* unc chapel hill: 1 release was a statement about chapel Hill
+* zimmerman: 1 release was an announcement by the Justice Department regarding the insufficient evidence to pursue federal civil rights charges against George Zimmerman.
+* meeting: 1 release was about A.G. Lynch's first official visit to North Carolina for a meeting with civil rights leaders and individals combatting human trafficking.
+* lynch: 1 release that relates to the same event describe in the "meeting" tag. 
+* church fires: 1 release was a statement from Melanie Newman regarding church fires currently under investigation.
+* restitution: 1 release was about a restitution order of 840,000 dollars by US District Judge Carlton Reeves of the Southern District of Mississippi.
+* resignation: 1 release was US Attorney Benjaming Wagner's resignation. 
+* hate crime statistics: 1 release was about the release of the 2015 hate crime statistics
+* charged: 6 releases were about individuals and groups being charged
+* conviction: 10 releases were about convictions of committing federal hate crimes. 
+* guilty plea: 39 releases were about guilty pleas to different federal hate crime 
+* indictment: 26 releases were about individuals and groups being indicted.
+* sentencing: 32 releases were about sentencings.
+
+
+After searching for all releases with "hate crime" in the release, I went through and looked for other terms. Phrases I used that returned releases to add to the corpus were: "bias motivated", "Matthew Shepard and James Byrd", "racially motivated".
+
+In going through the tagging with the term "racially motivated", `pressReleases_txt/release_02561.txt` is interesting because it talks about a case that has ended up as a guilty plea and is not listed as a hate crime but has the racial motivation. Need to check with Sarah if this counts for what we're tagging. **Do we count racially motivated crimes as part of the hate crimes? I'm asking this because hate crimes are under the broader umbrella of civil rights crimes.** 
+
+ "gender identity", "religiously motivated"
+
+I tried searching with the phrases "sexual identity", "sexual identity motivated", "religion motivated", "sexual orientation motivated", "bias incident", "hate incident", "bias crime", "bias motivated incident".
+
