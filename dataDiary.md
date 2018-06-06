@@ -34,3 +34,34 @@ I ran the script in several takes and generated 7 different `out_pr_list.csv` fi
 *Maybe there are some empty lines somewhere in the middle?*
 I just checked the `out_url_list_withID.csv` and found no empty lines in the middle. The file has 14421 lines but 12694 press releases. I'm not sure what the other 1727 lines are.
 
+Moving on to the scraped press releases, there is the metadata I talked about earlier that is in a csv file. The titles for the press releases are stored in the original url list scraped in the first part of the process and the text of the press releases are stored in the individual text files. I need to update the ID column of the url list because that one starts with 1 and in every other reference we start with 0. This ID is meant to be the unique identifier for the releases over the different files. 
+
+Looking at the scraper for the press releases, I also notice that the input file is a variation of the `out_url_list_withID.csv` file which makes me understand better what all the files mean.
+
+To summarize:
+`scrape_url/out_url_list2.csv`: irrelevant. will be deleted.
+`scrape_url/out_url_list_original.csv`: a clean copy of the URL list without added columns or headers. output of the `scrape_doj_url.py` file with added `_original` ending.
+`scrape_url/out_url_list_withID.csv`: version of URL list with added ID column and headers.
+`scrape_pressRelease/out_url_list_withID.csv`: a copy of `scrape_url/out_url_list_withID.csv`. not necessary in this folder. Will be deleted.
+`scrape_pressRelease/out_url_list_withoutHeader.csv`:used as input for the `scrape_pressRelease.py` file. A copy of `scrape_pressRelease/out_url_list_withID.csv` but without the header line because I didn't know how to really deal with it before (I'm sure I can do it better now.). May get deleted if I fix up the scripts before publishing.
+`scrape_pressRelease/out_pr_list.csv`: empty file. will get deleted.
+`scrape_pressRelease/out_pr_list1.csv`: contains the metadata for the press releases numbered 0 to 998 inclusive.
+`scrape_pressRelease/out_pr_list2.csv`: contains the metadata for the press releases numbered 999 to 2000 inclusive.
+`scrape_pressRelease/out_pr_list3.csv`: contains the metadata for the press releases numbered 2001 to 7350 inclusive.
+`scrape_pressRelease/out_pr_list4.csv`: contains the metadata for the press releases numbered 7351 to 7979 inclusive.
+`scrape_pressRelease/out_pr_list5.csv`: contains the metadata for the press releases numbered 7980 to 9999 inclusive.
+`scrape_pressRelease/out_pr_list6.csv`: contains the metadata for the press releases numbered 8300 to 9999 inclusive.
+`scrape_pressRelease/out_pr_list7.csv`: contains the metadata for the press releases numbered 10000 to 12693 inclusive.
+
+
+STOP. That overlap between `out_pr_list5.csv` and `out_pr_list6.csv` bothers me. I checked with the `main_our_pr_list.csv` file and there doesn't seem to be a duplicate anywhere in that range. Back to the files:
+
+`scrape_pressRelease/main_out_pr_list.csv`: contains all the metadata for the press releases numbered 0 to 12693 inclusive. It was a compilation of the numbered `out_pr_list.csv` files. 
+
+The other files are: 
+* `scrape_url/indexPages/` which contains a saved copy of each page of press releases that we scraped.
+* `scrape_pressRelease/pressReleases/` which contains a saved copy of each web version of the press release.
+
+The above two files are meant for emergencies (if no internet or we want to scrape more or they take down the press release).
+
+* `scrape_pressRelease/pressReleases_txt/` contains all the body text for each press release.  Sometimes a None was appended to the end of the file when there was an extra return or paragraph tag in the html. Still haven't figured out how to delete them, but I don't think I have to worry too much about that for now.
