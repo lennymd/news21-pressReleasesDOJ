@@ -1,0 +1,1258 @@
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Nashville
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation
+Person: Christine M. Siscaretti, Christopher Beckham, Don Cochran, James Byrd , Jr., John Gore, Rachel Kincaid, Sara Beth Myers
+Position: Acting Assistant Attorney General, Assistant United States Attorney, Attorney
+ProvinceOrState: Tennessee
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, ManMadeDisaster, PersonAttributes, PersonCareer, Quotation
+City: Los Angeles
+Country: United States
+NaturalFeature: Boyle Heights
+Organization: Bureau of Alcohol, Civil Rights Division, Department of Justice, FBI's Los Angeles Field Office, Federal Bureau of Investigation, Los Angeles Fire Department, Los Angeles Police Department
+Person: Boogie, Carlos Hernandez, Christina A. Snyder, Edwin Felix, Francisco Farias, Gallo, Joel Matthew Monarrez, John Gore, Jonathan Portillo, Jose Saucedo, Jose Zamora, Josue Garibay, Julia Gegenheimer, Lil Moe, Mack E. Jenkins, Malo, Nicola T. Hanna, Paul D. Delacourt, Pelon, Ramona Gardens
+Position: Acting Assistant Attorney General, Assistant United States Attorney, Attorney, Chief, District Judge, the Assistant Director in Charge
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: CompanyLocation, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+IndustryTerm: stun device
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Salt Lake City Field Office, United States Attorneys Office
+Person: Dee Benson, Eric Barnhart, J. Drew Yeates, John Gore, John W. Huber, Mark Porter, Rose E. Gibson
+Position: Acting Assistant Attorney General, Assistant Attorney General, Assistant U.S. Attorney, Attorney, Attorney for the District of Utah John W. Huber , and Special Agent, District Judge
+ProvinceOrState: Arizona, Utah, Utah John W. Huber
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, Quotation
+City: Cincinnati
+Organization: Cincinnati Division, Civil Rights Division, Department of Justice, Federal Bureau of Investigation
+Person: Gabriel Davis, Izmir Koch, James Byrd , Jr., Megan Gaffney
+Position: Assistant United States Attorney
+ProvinceOrState: Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Aubrey, Dallas
+IndustryTerm: federal and local law enforcement, social media
+MedicalCondition: Attorney Saeed Mody, bodily injury
+Organization: Alcohol, Tobacco, Firearms and Explosives Dallas Division, Civil Rights Division, Frisco Police Department, Justice Departments Civil Rights Division, Plano Police Department, U.S. Attorneys office for the Eastern District of Texas and Trial, U.S. Attorneys office of the Eastern District of Texas, U.S. Bureau of Alcohol
+Person: Chancler Encalade, John Gore, Joseph D. Brown, Nigel Garrett, Saeed Mody, Tracey Batson
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: DiplomaticRelations, Indictment, PersonAttributes, PersonCareer, Quotation
+City: Athens, Washington, D.C.
+Country: United States
+EntertainmentAwardEvent: the Anti-Defamation League
+Facility: Orlando International Airport
+IndustryTerm: law enforcement, law enforcement resources
+Organization: Anti-Defamation League, Criminal Divisions office of International Affairs, Department of Justice, FBI Atlanta Division, FBI Tampa Division, Federal Bureau of Investigation, Israeli Embassy, Israeli National Police, Justice Departments Civil Rights Division, Justice Departments Criminal Division, U.S. Attorneys office for the District of Columbia, U.S. Attorneys office for the Middle District of Florida, U.S. Attorneys office for the Middle District of Georgia
+Person: Charles E. Peeler, Christopher Wray, Jessie K. Liu, Maria Chapa Lopez, Michael Ron David Kadar, Washington Field
+Position: Attorney, Attorney General, Director
+ProvinceOrState: District of Columbia, Florida, Georgia
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Tampa
+Facility: U.S. District Court
+NaturalFeature: Davis Islands
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Tampa Division, U.S. District Court for the Middle District of Florida
+Person: David H. Howard, John Gore, Josephine W. Thomas, Maria Chapa Lopez, William E. Nolan
+Position: Acting Assistant Attorney, Assistant U.S. Attorney, Attorney, Special Agent
+ProvinceOrState: Florida
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation
+City: Chester
+Company: Amazon
+Facility: Amazon Fulfillment Center
+Organization: Chesterfield County Police, Chesterfield County Police Department, Civil Rights Division, Congress, FBIs Richmond Field Office, Federal Bureau of Investigation, UN Court
+Person: Act, Adam S. Lee, Dana J. Boente, James Byrd Jr., James William Hill III, John A. Gibney, John M. Gore, S. David Schiller, Trial Attorney Saeed Mody
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Officer, Special Agent, co-worker, manager
+ProvinceOrState: Virginia
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+Country: United States
+MedicalCondition: Attorney Saeed Mody
+Organization: Alcohol, Tobacco, Firearms and Explosives Dallas Division, Civil Rights Division, Department of Justice, Frisco Police Department, Justice Departments Civil Rights Division, Plano Police Department, U.S. Attorneys office for the Eastern District of Texas and Trial, U.S. Attorneys office of the Eastern District of Texas, U.S. Bureau of Alcohol
+Person: Brit Featherston, John Gore, Nigel Garrett, Saeed Mody, Tracey Batson
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonTravel, Quotation
+Facility: Islamic Center, Islamic Center of Greater
+Organization: Civil Rights Division, Department of Justice, FBIs Miami Area Corruption Task Force, Islamic Center, Islamic Center of Greater Miami, Miami Gardens Police Department, U.S. District Court
+Person: Benjamin G. Greenberg, Gerald Wallace, Harry C. Wallace , Jr., John Gore, Marcia G. Cooke, Samantha Trepel
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Judge
+ProvinceOrState: Florida
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, Quotation
+Country: United States
+Organization: Department of Justice, U.S. Attorney's Office
+Person: Brit Featherston, John Gore
+Position: Acting Assistant Attorney General, Attorney
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, Quotation
+City: Aubrey
+Company: ATF
+Country: United States
+IndustryTerm: social media
+MedicalCondition: Trial Attorney Saeed Mody, bodily injury
+Organization: Alcohol, Tobacco, Firearms and Explosives Dallas Division, Civil Rights Division, Department of Justice, Frisco Police Department, Justice Departments Civil Rights Division, Plano Police Department, U.S. Attorneys Office, U.S. Attorneys office of the Eastern District of Texas, U.S. Bureau of Alcohol
+Person: Anthony Shelton, Brit Featherston, Cameron Ajiduah, Chancler Encalade, John Gore, Nigel Garrett, Saeed Mody, Tracey Batson
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Aubrey
+Country: United States
+IndustryTerm: law enforcement, social media
+MedicalCondition: Attorney Saeed Mody, bodily injury
+Organization: Alcohol, Tobacco, Firearms and Explosives Dallas Division, Civil Rights Division, Department of Justice, Frisco Police Department, Justice Departments Civil Rights Division, Plano Police Department, U.S. Attorneys office for the Eastern District of Texas and Trial, U.S. Attorneys office of the Eastern District of Texas, U.S. Bureau of Alcohol
+Person: Anthony Shelton, Brit Featherston, Cameron Ajiduah, Chancler Encalade, John Gore, Nigel Garrett, Saeed Mody, Tracey Batson
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonCareer
+City: Aventura
+Facility: Florida synagogue
+IndustryTerm: explosive device
+Organization: Aventura Turnberry Jewish Center, Department of Justice, Federal Bureau of Investigation, Jewish Center, Southern Florida Joint Terrorism Task Force
+Person: Benjamin G. Greenberg, James Gonzalo Medina, Marc Anton, Michael Thakur, Steve Curran, Taryn Meeks
+Position: Assistant U.S. Attorneys, Attorney, Attorney General, Civil Rights Divisions Special Litigation Counsel, National Security Divisions Trial Attorney
+ProvinceOrState: Florida
+Region: Southern Florida
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, ManMadeDisaster, PersonAttributes, PersonCareer
+City: City
+IndustryTerm: destructive device, unregistered destructive device
+Organization: Bureau of Alcohol, Tobacco, Firearms and Explosives, Criminal Investigations Division, Department of Justices Civil Rights Division, Federal Bureau of Investigation, Texas Department of Public Safety, Texas Rangers, Texas State Fire Marshals Office, Victoria Fire Department, Victoria Fire Marshals Office, Victoria Islamic Center, Victoria Police Department
+Person: Abe Martinez, Kate Suh, Marq Vincent Perez, Saeed Mody, Sharad S. Khandelwal, Thomas E. Wheeler II, Victoria Fire, Vincent Perez
+Position: Acting Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Special Agent
+ProvinceOrState: Nueces, Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonTravel, Quotation
+Facility: Islamic Center of Greater
+Organization: Civil Rights Division, Department of Justice, FBIs Miami Area Corruption Task Force, Islamic Center of Greater Miami, Miami Gardens Police Department
+Person: Gerald Wallace, Harry C. Wallace , Jr., Samantha Trepel
+Position: Assistant U.S. Attorney
+ProvinceOrState: Florida
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Olathe
+Organization: Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Olathe Police Department
+Person: Adam W. Purinton, Alok Madasani, Christopher J. Perras, David Zabel, Ian Grillot, Srinivas Kuchibhotla, Thomas E. Beall, Thomas E. Wheeler , II, Tris Hunt
+Position: Acting Assistant Attorney General, Assistant United States Attorneys, Attorney, head
+ProvinceOrState: Kansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, NaturalDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Lucedale
+Country: United States
+IndustryTerm: law enforcement
+Organization: Civil Rights Division, Department of Justice, FBI Jackson Divisions Pascagoula Safe Streets Task Force, FBIs Jackson Division, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Latin Kings, Latin Kings and Queens Nation, Mississippi Sheriffs Office, U.S. Attorneys office for the Southern District of Mississippi, office of the District
+Person: Christopher Freeze, Harold Brittain, James Byrd Jr., Jay Golden, Joshua Brandon Vallum, Julia Gegenheimer, Mercedes Williamson, Sheldon Beer, Tom Wheeler
+Position: Acting Assistant Attorney General, Attorney, Attorney General, Special Agent, Special Litigation Counsel
+ProvinceOrState: Alabama, George County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Aubrey
+Company: ATF
+IndustryTerm: social media
+MedicalCondition: Trial Attorney Saeed Mody, bodily injury
+Organization: Alcohol, Tobacco, Firearms and Explosives Dallas Division, Civil Rights Division, Frisco Police Department, Justice Departments Civil Rights Division, Plano Police Department, U.S. Attorneys office of the Eastern District of Texas, U.S. Bureau of Alcohol
+Person: Anthony Shelton, Cameron Ajiduah, Chancler Encalade, Nigel Garrett, Saeed Mody, Tracey Batson
+Position: Assistant U.S. Attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Nampa
+Country: United States
+Facility: U.S. District Court
+IndustryTerm: Internet website, law enforcement partners, steel-toed boots
+NaturalFeature: Lake Lowell
+Organization: Canyon County Sheriffs Office, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Treasure Valley Metro Violent Crime Task Force, U.S. District Court
+Person: B. Lynn Winmill, James Byrd , Jr., Kelly Schneider, Rafael M. Gonzalez , Jr., Steven Nelson, Tom Wheeler
+Position: Acting Assistant Attorney General, Attorney, Chief Judge
+ProvinceOrState: Idaho
+URL: backpage.com
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonAttributes, PersonCareer, Quotation
+City: Athens, Macon, Orlando
+Country: Israel, United States
+IndustryTerm: law enforcement, law enforcement officers, law enforcement resources
+Organization: Department of Justice, Federal Bureau of Investigation, Justice Department, Justice Departments Civil Rights Division, Justice Departments Criminal Division
+Person: G. F. Peterman III, James Comey, Jesse Panuccio, Kenneth E. Blanco, Michael Ron David Kadar, Tom Wheeler, W. Stephen Muldrow
+Position: Acting Assistant Attorney General, Acting Associate Attorney General, Attorney, Attorney General, Director
+ProvinceOrState: Florida, Georgia
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Dodge City
+Date: 2015-06-19
+Organization: Department of Justice, Dodge City Police, FBIs Garden City Resident Agency, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Diego Martinez, Jared Fishman, Mona Furst, Risa Berkower, Tom Wheeler
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Special Litigation Counsel
+ProvinceOrState: Ford County, Kansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Pittsburgh
+Facility: Bethel Park Police Department
+Organization: Bethel Park Police Department, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Cindy K. Chung, James Byrd Jr., Jeffrey Allen Burgess, Rachael L. Dizard, Soo C. Song, Tom Wheeler, Tona Boyd
+Position: Acting Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Civil Rights Division Trial Attorney
+ProvinceOrState: Pennsylvania
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Minneapolis, New York
+Organization: Department of Justice, FBI's Minneapolis Division, FBIs Minneapolis Division, Federal Bureau of Investigation, Islamic Center, Tawfiq Islamic Center
+Person: Andrew Luger, Angela Munoz-Kaphing, Daniel George Fisher, Olimpia Michel, Tom Wheeler
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Special Agent
+ProvinceOrState: Minnesota
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Dodge City
+Country: Somalia
+Organization: Department of Justice, Dodge City Police Department, FBIs Garden City Resident Agency, Justice Departments Civil Rights Division, Sheriffs Department
+Person: Armando Sotelo, Jared Fishman, Mona Furst, Omar Cantero Martinez, Risa Berkower, Tom Wheeler
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Special Litigation Counsel
+ProvinceOrState: Ford County, Kansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+Facility: U.S. District Court
+IndustryTerm: Internet website, law enforcement partners, state law enforcement partners, steel-toed boots
+NaturalFeature: Lake Lowell
+Organization: Canyon County Sheriffs Office, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Treasure Valley Metro Violent Crime Task Force, U.S. District Court
+Person: Aejean Cha, B. Lynn Winmill, James Byrd , Jr., Kelly Schneider, Steven Nelson, Tom Wheeler, Wendy J. Olson
+Position: Acting Assistant Attorney General, Attorney, Judge, head
+ProvinceOrState: Idaho
+URL: backpage.com
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, NaturalDisaster, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Lucedale
+Continent: Americas
+Country: United States
+IndustryTerm: law enforcement, law enforcement partners
+Movie: September
+Organization: Circuit Court, Congress, Department of Justice, FBIs Jackson Division, Federal Bureau of Investigation, Gulf Coast Chapter of the Almighty Latin Kings and Queens Nation, Justice Departments Civil Rights Division, federal government
+Person: Brandon Vallum, Christopher Freeze, Gregory K. Davis, James Byrd Jr., Loretta E. Lynch, Louis Guirola Jr., Mercedes Williamson, Vanita Gupta
+Position: Attorney, Attorney General, Deputy Assistant Attorney General, District Judge, Special Agent, Williamsons head, head
+ProvinceOrState: Alabama, George County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, Quotation
+City: Sanfords, Sanfords City
+Company: Norton
+Country: United States
+IndustryTerm: citys law enforcement, law enforcement, law enforcement authority, local law enforcement, social media
+Organization: Community Relations Service, Denfeld High School, Department of Justice
+Person: James Byrd , Jr., Loretta E. Lynch, Tonya Sconiers, Trayvon Martin
+Position: Attorney General, City Manager, Manager, Norton Bonaparte, Manager, the County Sherriff and members, Mayor , City Manager
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Minneapolis
+Continent: America
+IndustryTerm: federal law
+Organization: Department of Justice, FBIs Minneapolis Division, Federal Bureau of Investigation, Islamic Center, Justice Departments Civil Rights Division, Tawfiq Islamic Center, U.S. Attorney's Office
+Person: Andrew M. Luger, Angela Munoz-Kaphing, Daniel George Fisher, Olimpia Michel, Vanita Gupta, Wilhelmina M. Wright
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, District Judge, Special Agent, head
+ProvinceOrState: Minnesota
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Dodge City
+Country: Somalia
+Date: 2015-06-19
+Organization: Civil Rights Division, Department of Justice, Dodge City Police, FBIs Garden City Resident Agency
+Person: Armando Sotelo, Jared Fishman, Mona Furst, Omar Cantero Martinez, Risa Berkower, Vanita Gupta
+Position: Assistant U.S. Attorney, Deputy Assistant Attorney General, Special Litigation Counsel, head
+ProvinceOrState: Ford County, Kansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: CompanyLaborIssues, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Cleveland, Toledo
+Company: Facebook
+IndustryTerm: law enforcement partners
+Organization: FBI Cleveland Divisions Toledo Resident Agency, FBIs Cleveland Division, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Prosecutors Office, Toledo Police Department
+Person: Carole S. Rendon, Charles Butler, Dana Mulhauser, Michael Freeman, Robert Paschalis, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Butler, Deputy Assistant Attorney General, Special Agent, head
+ProvinceOrState: Lucas County, Ohio
+Region: Northern Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, Quotation
+Anniversary: the seventh anniversary of one of those laws
+Company: American can
+IndustryTerm: federal law, local law enforcement, recent media reports
+Organization: Department of Justice, Federal Bureau of Investigation, Justice Department
+Person: James Byrd Jr., Loretta E. Lynch, Matthew Shepard
+Position: Attorney General
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: CompanyLaborIssues, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Cleveland, Toledo
+Company: Facebook
+IndustryTerm: law enforcement partners
+Organization: Department of Justice, FBI Cleveland Divisions Toledo Resident Agency, FBIs Cleveland Division, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Lucas County Prosecutors Office, Toledo Police Department
+Person: Carole S. Rendon, Charles Butler, Dana Mulhauser, Michael Freeman, Robert Paschalis, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Butler, Deputy Assistant Attorney General, Special Agent, head
+ProvinceOrState: Lucas County, Ohio
+Region: Northern Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Dubuque
+Facility: Northside Bar
+Organization: Department of Justice, Dubuque Police Department, Federal Bureau of Investigation, Justice Departments Civil Rights Division, U.S. Marshals Service
+Person: Anthony Morfitt, Christopher Perras, Kevin W. Techau, Linda R. Reade, Randy Metcalf, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Chief U.S. District Judge, Deputy Assistant Attorney General, head
+ProvinceOrState: Iowa
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Grand Forks, St. Paul
+Company: ATF
+IndustryTerm: destructive device, gas station, law enforcement partners
+Organization: Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice, FBIs Minneapolis Division, Federal Bureau of Investigation, Field Division, Grand Forks Police Department, Justice Departments Civil Rights Division, UN Court
+Person: Christopher C. Myers, Dana Mulhauser, Matthew Gust, Megan A. Healy, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, Special Agent, head
+ProvinceOrState: Minnesota, North Dakota
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonAttributes, PersonCareer, PersonLocation
+City: Toledo
+Company: Facebook
+Organization: Civil Rights Division, FBI Cleveland Divisions Toledo Resident Agency, FBIs Cleveland Division, Ohio State Police, Prosecutors Office, Toledo Police Department
+Person: Carole S. Rendon, Charles Butler, Dana Mulhauser, Michael Freeman, Robert Paschalis
+Position: Assistant U.S. Attorney, Attorney, Butler, Deputy Assistant Attorney General, Special Agent
+ProvinceOrState: Lucas County, Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Los Angeles
+Company: ATF
+IndustryTerm: law enforcement, spray paint
+NaturalFeature: Boyle Heights
+Organization: Congress, FBIs Los Angeles Division, Federal Bureau of Investigation, Hazard Grande, Justice Departments Civil Rights Division, LAPDs Hollenbeck Division, Los Angeles Fire Department, Los Angeles Police Department, UN Court, civil society
+Person: Boogie, Carlos Hernandez, Charlie Beck, Douglas M. Miller, Edwin Felix, Eileen M. Decker, Francisco Farias, Gallo, Joel Matthew Monarrez, Jonathan Portillo, Jose Saucedo, Julia Gegenheimer, Lil Moe, Mack E. Jenkins, Malo, Pelon, Ralph M. Terrazas, Ramona Gardens, Trial Attorneys Patricia Sumner, Vanita Gupta
+Position: Assistant Director in Charge Deirdre Fike, Assistant U.S. Attorneys, Attorney, Deputy Assistant Attorney General, Fire Chief, Special Agent, U.S. Attorney, head
+ProvinceOrState: California, Southern California
+Region: Southern California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Grand Forks, St. Paul
+Company: ATF
+IndustryTerm: destructive device, gas station, law enforcement
+Organization: Bureau of Alcohol, Tobacco, Firearms and Explosives, Civil Rights Division, FBIs Minneapolis Division, Federal Bureau of Investigation, Field Division, Grand Forks Police Department, Justice Departments Civil Rights Division
+Person: Christopher C. Myers, Dana Mulhauser, Matthew Gust, Megan A. Healy, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, Special Agent, head
+ProvinceOrState: Minnesota, North Dakota
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Dodge City
+Country: United States
+Organization: Dodge City Police, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Armando Sotelo, James Byrd Jr., Mona Furst, Omar Cantero Martinez, Risa Berkower, Tom Beall, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, head
+ProvinceOrState: Kansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: EmploymentChange, PersonCareer, PersonEducation, PersonLocation, Quotation
+City: Jakarta, Sacramento
+Company: Anderson Ark & Associates, Mortgage Fraud Working Group, Rights/Human Trafficking Working Group, blue shield of california
+Country: Indonesia, United States
+EntertainmentAwardEvent: IRS-Criminal Investigation Chiefs Award
+Facility: Harvard University, Ninth Circuit Court of Appeals
+Organization: Advisory Committee, Attorney Generals Advisory Committee, Department of Justice, Department of Justice Resident Legal, Department of State, Fresno Division, Harvard University, Internal Revenue Service, Justices Office, Narcotics and Violent Crime Unit, National Security Unit, Ninth Circuit Court of Appeals, Presidents Financial Fraud Enforcement Task Force, Subcommittee on White Collar Crime, UCLA School, White Collar Crime Subcommittee of the AGAC, White Collar Unit
+Person: Ben Wagner, Benjamin B. Wagner, Eric Holder, Loretta E. Lynch, Monte McFall, Phillip A. Talbert, Rachelle Shannon, Richard Andrews
+Position: Advisor, Appellate Chief, Assistant U.S. Attorney, Assistant U.S. Attorneys, Attorney, Attorney , U.S. Attorney, Attorney General, CPA and an attorney, First Assistant U.S. Attorney, Resident Legal Advisor, U.S. Attorney, Women Act coordinator, co-chair, crimes and civil rights coordinator, district antiterrorism coordinator, leader, prosecutor, prosecutor in the office, sheriff, supervisor and line prosecutor
+ProvinceOrState: California, San Joaquin County
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Dubuque
+Facility: Northside Bar
+Organization: Department of Justice, Dubuque Police Department, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Anthony Morfitt, Christopher Perras, Kevin W. Techau, Linda R. Reade, Randy Metcalf, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Chief U.S. District Judge, Deputy Assistant Attorney General, head
+ProvinceOrState: Iowa
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Corpus Christi
+Date: 2012-03-08
+Holiday: Corpus Christi Day
+IndustryTerm: law enforcement
+Organization: Corpus Christi Police Department, Department of Justice, FBIs Corpus Christi Resident Agency, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Carlos Garcia, Jimmy Garza Jr., Kenneth Magidson, Nicholas Durham, Ramiro Serrata Jr., Ruben Perez, Trial Attorneys Jared Fishman, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, U.S. District Judge Hayden Head, head
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, CompanyLaborIssues, Conviction, PersonAttributes, PersonCareer, Quotation
+City: Jackson
+Company: Ford
+Facility: Metro Inn Motel
+Organization: Department of Justice, FBIs Jackson Division, Justice Departments Civil Rights Division
+Person: Carlton Reeves, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, James Byrd Jr., James Craig Anderson, James Craig Andersons, John Aaron Rice, Paige Fitzgerald, Paul Dedmon, Sheldon L. Beer, Vanita Gupta, William Kirk Montgomery
+Position: Acting Chief, Assistant U.S. Attorney, Butler, Deputy Assistant Attorney General, District Judge, Judge, head
+Product: Ford F-250
+ProvinceOrState: Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Corpus Christi
+Country: United States
+Date: 2012-03-08
+Facility: Prisons facility
+Holiday: Corpus Christi Day
+Organization: Civil Rights Division, Corpus Christi Police Department, Department of Justice, Justice Departments Civil Rights Division, Resident Agency, U.S. Bureau of Prisons
+Person: Carlos Garcia Jr., Jimmy Garza, Kenneth Magidson, Nicholas Durham, Ruben Perez, Trial Attorneys Jared Fishman, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, Judge Head, Senior U.S. District Judge Hayden Head, federal law enforcement officer, head
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, Quotation
+City: Paris
+IndustryTerm: law-enforcement presence
+Organization: Department of Justice, Federal Bureau of Investigation, Islamic Society of Pinellas County, Islamic Society of St. Petersburg, Justice Departments Civil Rights Division, St. Petersburg Police Department, U.S. Attorneys Office
+Person: A. Lee Bentley III, Daniel George, Daniel Irick, Gabriel Davis, Martin Alan Schnitzler, Vanita Gupta
+Position: Assistant U.S. Attorneys, Attorney, Deputy Assistant Attorney General, head
+ProvinceOrState: Florida, Pinellas County
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Chester
+Organization: Civil Rights Division, FBIs Richmond Division
+Person: Dana J. Boente, James Byrd Jr., James William Hill III, Ryan Murgua, S. David Schiller, Vanita Gupta
+Position: Assistant U. S. Attorney, Attorney, Deputy Assistant Attorney General, head
+ProvinceOrState: Virginia
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, Quotation
+IndustryTerm: important tool, police car
+Organization: Civil Rights Division, Department of Justice, Department of Justices Civil Rights Division, Federal Bureau of Investigation, Seattle Police Department, Seattle police, U.S. Attorneys Office
+Person: Annette L. Hayes, Bruce Miyake, James Byrd Jr., Saeed Mody, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, head
+ProvinceOrState: King County, Washington
+Region: Western Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Killeen, Norfolk, Philadelphia, West Palm Beach
+IndustryTerm: food, law enforcement
+Organization: Alcohol, Tobacco, Firearms and Explosives West Palm Beach Field Office, Bureau of Alcohol, Federal Bureau of Investigation, Internal Revenue Service, Philadelphia District Attorneys Office, Philadelphia Police Department, Social Security Administration, Social Security Administration office of Inspector General, U.S. District Court
+Person: Cynthia M. Rufe, D.S. They, Eddie Wright, Faithe Moore Taylor, Gregory Thomas Sr., Jean McIntosh, Linda Weston, Nicklaus Woodard, Richard P. Barrett
+Position: Assistant U.S. Attorneys, Judge, representative
+ProvinceOrState: Florida, Pennsylvania, Texas, Virginia
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Katy, Laramie
+Facility: Prisons facility
+Organization: Civil Rights Division, Department of Justice, Drug Enforcement Administration, FBI Houston Division, Federal Bureau of Investigation, U.S. Bureau of Prisons
+Person: Barack Obama, Conrad Alvin Barrett, Gray Miller, James Byrd Jr., Joe Magliolo, John Healey, Kenneth Magidson, Olimpia Michel, Ruben R. Perez, Trial Attorneys Saeed Mody, Vanita Gupta
+Position: Assistant U.S. Attorneys, Attorney, Deputy Assistant Attorney General, District Attorney, District Judge, President, Special Agent, head
+ProvinceOrState: Fort Bend County, Texas, Wyoming
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Corpus Christi
+Date: 2012-03-08
+Holiday: Corpus Christi Day
+Organization: Civil Rights Division, Corpus Christi Police Department, Department of Civil Rights Division, Department of Justice, FBIs Corpus Christi Resident Agency
+Person: Jimmy Garza, Jimmy Garza Jr., Kenneth Magidson, Nicholas Durham, Ramiro Serrata Jr., Ruben Perez, Trial Attorneys Jared Fishman, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, head, victims head
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation, Trial
+City: Corpus Christi
+Date: 2012-03-08
+Holiday: Corpus Christi Day
+Organization: Civil Rights Division, Corpus Christi Police Department, Department of Justices Civil Rights Division, FBIs Corpus Christi Resident Agency
+Person: Jimmy Garza Jr., Kenneth Magidson, Nicholas Durham, Ramiro Serrata Jr., Ruben Perez, Trial Attorneys Jared Fishman, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, head
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Arrest, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Corpus Christi, Robstown
+Date: 2012-03-08
+Holiday: Corpus Christi Day
+IndustryTerm: chemical solution
+Organization: Corpus Christi Police Department, Department of Justices Civil Rights Division, FBIs Corpus Christi Resident Agency, Justice Departments Civil Rights Division
+Person: Jason Libby, Jimmy Garza Jr., Kenneth Magidson, Nicholas Durham, Ramiro Serrata Jr., Ruben Perez, Trial Attorneys Jared Fishman, Vanita Gupta
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General, Magistrate Judge, chair, head
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, Quotation
+City: Washington
+Company: united states department of justice
+IndustryTerm: patrol car
+Organization: Civil Rights Division, Department of Justices Civil Rights Division, King County Prosecuting Attorneys Office, Seattle Police Department, United States Department of Justice
+Person: Annette L. Hayes, Bruce Miyake, James Byrd , Jr., James L. Robart, Saeed Mody, Vanita Gupta
+Position: Assistant United States Attorney, Attorney, Deputy Assistant Attorney General, District Judge, head
+ProvinceOrState: Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, Quotation
+City: Washington
+Facility: U.S. District Court
+IndustryTerm: patrol car
+Organization: Civil Rights Division, King County Prosecuting Attorneys Office, Seattle Police Department, U.S. District Court in Seattle
+Person: Annette L. Hayes, Bremerton, Bruce Miyake, James Byrd , Jr., Saeed Mody, Screamed Homophobic Slurs, Vanita Gupta
+Position: Assistant U. S. Attorney, Attorney, Deputy Assistant Attorney General, head
+ProvinceOrState: Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonCareer, PersonCommunication
+City: Charleston
+IndustryTerm: federal hate crimes law, respective court systems, usual rigorous protocol
+Organization: Civil Rights Division, Department of Justice, Episcopal Church, Federal Bureau of Investigation, Protestant Episcopal Church, SLED  Charleston Police, Solicitors office for the Ninth Circuit of South Carolina, U.S. Attorneys Office, federal grand jury
+Person: Bill Nettles, Dylann Roof, Emanuel, James Byrd Hate, Lynch, Mark Giuliano, Scarlett Wilson, Vanita Gupta
+Position: Attorney, Attorney General, Charleston Solicitor, Deputy Director, Solicitor, counsel, head
+ProvinceOrState: South Carolina
+Technology: usual rigorous protocol
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ManMadeDisaster, PersonCareer
+Company: ATF
+Country: United States
+IndustryTerm: federal law enforcement, federal law enforcement team
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation
+Person: Melanie Newman
+Position: spokesperson
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, PersonCommunication, PersonTravel, Quotation
+City: Durham, DurhamU.S, Raleigh
+Company: Appointed OfficialsExecutive, El Pueblo Inc., Raleigh Ministerial AllianceReverend William Everett
+Facility: Butner Federal Correctional Complex, Chapel Hill PoliceReverend Lorenzo LynchReverend Marion Robinson, North Carolina Central University, Temple Beth OrRabbi Larry Bach
+IndustryTerm: law enforcement, law enforcement team
+Organization: Carolina Central School, Cole Immigration Law Center, Department of Justice, Durham Committee on the Affairs of Black PeopleChris Sgro, Durham Police Department, Interdenominational Ministers Alliance of DurhamImam Adeel Zeb, Justice Department, LGBT Center, National Association, North Carolina Central University, North Carolina Central University School, North Carolina Coalition Against Human Trafficking, Raleigh-Wake Citizens Association, School of Law, United States Attorneys Office for the Eastern District, office of U.S., office of the Attorney GeneralU.S
+Person: Adeel Zeb, Angeline Echevarria, Cassandra Deck-Brown, David PriceProfessor, Debra Saunders-White, Duke Law, Earl Johnson, Everett Ward, Fred Foster, Irving Joyner, James Coleman, Jose Lopez, Juliana Cabrales, Loretta E. Lynch, Lucy Dinner, Mohammed, Nancy Petty, Paul Anderson, Phyliss Craig Taylor, Pilar Rocha-Goldberg, Ralph Hunt Sr., Rand, Sgro, Thomas G. Walker, William Barber, William Bill Bell
+Position: AssociationHamzu Butler, Attorney, Attorney General, Chaplain, Director, Director of Muslim Life at Duke UniversityImam, DurhamCivic Engagement Manager, Executive Director of Equality NCHelena Cragg, President, Representative, Walker
+ProvinceOrState: North Carolina
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Jasper, Katy, Laramie
+Organization: Civil Rights Division, Department of Justice, Drug Enforcement Administration, Federal Bureau of Investigation
+Person: Barack Obama, Conrad Alvin Barrett, Gray Miller, James Byrd Jr., Joe Magliolo, John Healey, Kenneth Magidson, Olimpia Michel, Ruben R. Perez, Trial Attorneys Saeed Mody, Vanita Gupta
+Position: Assistant U.S. Attorneys, Attorney, Deputy Assistant Attorney General, District Attorney, District Judge, President, advocate, head
+ProvinceOrState: Ft. Bend County, Texas, Wyoming
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonAttributes, Quotation
+City: Port Gibson
+Company: federal bureau of investigation
+MedicalCondition: bodily injury
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, office for the Southern District of Mississippi
+Person: James Byrd, James Byrd Jr., Otis James Byrd
+Position: U.S. Attorney
+ProvinceOrState: Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Brandon, Pearl, Puckett
+Company: Andersons
+Facility: U.S. District Court
+IndustryTerm: law enforcement partners, metal ball bearings
+Organization: Civil Rights Division, DOJ Civil Rights Division, Department of Justice, District Attorneys Office, Federal Bureau of Investigation, Jackson Division, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County, U.S. District Court of the Southern District of Mississippi
+Person: Brooke Richards, Crystal Springs, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, James Craig Anderson, John Aaron Rice, John Louis Blalack, Jonathan Kyle Gaskamp, Joseph Paul Dominick, Paige M. Fitzgerald, Paul Dedmon, Robert Henry Rice, Sarah Adelia Graves, Shelbie Brooke Richards, Sheldon L. Beer, Vanita Gupta, William Kyle Montgomery
+Position: Acting Assistant Attorney General, Attorney, Butler, Deputy Chief, Special Agent
+Product: Ford F250, Jeep
+ProvinceOrState: Hinds County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Brandon, Pearl, Puckett
+Company: Andersons
+Facility: U.S. District Court
+IndustryTerm: law enforcement partners
+Organization: Civil Rights Division, DOJ Civil Rights Division, Department of Justice, District Attorneys Office, Federal Bureau of Investigation, Jackson Division, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County, U.S. District Court
+Person: Brooke Richards, Crystal Springs, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, James Craig Anderson, John Aaron Rice, Jonathan Kyle Gaskamp, Joseph Paul Dominick, Louis Blalack, Paige M. Fitzgerald, Paul Dedmon, Robert Henry Rice, Sarah Adelia Graves, Shelbie Brooke Richards, Sheldon L. Beer, Vanita Gupta, William Kyle Montgomery
+Position: Acting Assistant Attorney General, Attorney, Deputy Chief, Special Agent
+Product: Ford F250, Jeep
+ProvinceOrState: Hinds County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Bergholz, Hammondsville, Irondale
+IndustryTerm: law enforcement investigators
+Organization: Civil Rights Division, Cleveland Division, Department of Justice, District Court, FBI Cleveland Office, Federal Bureau of Investigation, U.S. Attorneys office for the Northern District of Ohio, UN Court
+Person: Anna Miller, Bridget M. Brennan, Daniel S. Mullet, Eli M. Miller, Elizabeth A. Miller, Emanuel Schrock, Emma J. Miller, Freeman Burkholder, Johnny S. Mullet, Kathryn Miller, Kristy Parker, Lester Miller, Lester Mullet, Levi F. Miller, Linda Shrock, Lovina Miller, Raymond Miller, Samuel Mullet, Samuel Mullet Sr., Samuel Mulllet Sr., Steven M. Dettelbach, Thomas Getz, Vanita Gupta
+Position: Acting Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Bishop, Corporal, Deputy Chief, Special Agent, judge
+ProvinceOrState: Carroll, Holmes, Jefferson, Ohio, Trumbull
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Brandon, Jackson, Pearl, Puckett
+Company: Andersons
+Facility: U.S. District Court
+IndustryTerm: law enforcement, metal ball bearings
+Organization: Civil Rights Division, Department of Justice, District Attorneys Office, Federal Bureau of Investigation, Jackson Division, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County, U.S. District Court
+Person: Act, Crystal Springs, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, James Byrd , Jr., James Byrd Jr., James Craig Anderson, John Aaron Rice, John Louis Blalack, Jonathan Kyle Gaskamp, Joseph Paul Dominick, Paige M. Fitzgerald, Robert Henry Rice, Sarah Adelia Graves, Shelby Brooke Richards, Sheldon L. Beer, Vanita Gupta, William Kirk Montgomery
+Position: Acting Assistant Attorney General, Attorney, Deputy Chief, Special Agent, driver
+Product: Ford F250, Jeep
+ProvinceOrState: Hinds County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonCareer, Quotation
+City: Sanford
+IndustryTerm: electronic devices, law enforcement
+MedicalCondition: bodily injury
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Justice Department, Justice Departments Civil Rights Division, Justice Departments Community Relations Service
+Person: Eric Holder, George Zimmerman, Trayvon Martin, Vanita Gupta
+Position: Acting Assistant Attorney General, Attorney General
+ProvinceOrState: Florida, Floridas
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, PersonCareer
+City: Hill
+Facility: Chapel Hill
+Organization: Department of Justice, Departments Civil Rights Division, Federal Bureau of Investigation, U.S. Attorneys office for the Middle District of North Carolina
+Person: Deah Shaddy Barakat, Eric Holder, Obama, Razan Mohammad Abu-Salha, Yusor Mohammad Abu-Salha
+Position: Attorney General, President
+ProvinceOrState: North Carolina
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Brandon, Jackson, Pearl, Puckett
+Company: Andersons
+Facility: U.S. District Court
+IndustryTerm: law enforcement
+Organization: Civil Rights Division, Department of Justice, District Attorneys Office, Federal Bureau of Investigation, Jackson Division, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County, U.S. District Court
+Person: Crystal Springs, Deryl Paul Dedmon, Dylan Wade Butler, Eric Holder, Glenda R. Haynes, Gregory K. Davis, James Byrd Jr., James Craig Anderson, John Aaron Rice, John Louis Blalack, Jonathan Kyle Gaskamp, Joseph Paul Dominick, Paige M. Fitzgerald, Paul Dedmon, Robert Henry Rice, Sarah Adelia Graves, Shelby Brooke Richards, Sheldon L. Beer, Vanita Gupta, William Kirk Montgomery
+Position: Acting Assistant Attorney General, Attorney, Attorney General, Butler, Deputy Chief, Special Agent
+Product: Ford F250, Jeep
+ProvinceOrState: Hinds County, Mississippi
+Region: Southern Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+City: Ozark
+Organization: Civil Rights Division, Dale County Sheriffs Office, Federal Bureau of Investigation, Ku Klux Klan, Ozark Police Department, U.S. District Court
+Person: Chiraag Bains, Exalted Cyclops, George L. Beck Jr., L. Scott Coogler, Pamela Morris, Steven Joshua Dinkle, Thomas Smith, Vanita Gupta
+Position: Acting Assistant Attorney General, Assistant U.S. Attorneys Jerusha T. Adams, Attorney, Judge, officer, president, secretary
+ProvinceOrState: Alabama
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Brandon, Pearl, Puckett
+Company: Blalack, Ford
+IndustryTerm: law enforcement partners, shot metal ball bearings
+Organization: Blalack, Civil Rights Division, Department of Justice, FBIs Jackson Division, Federal Bureau of Investigation, Hinds County District Attorneys office, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County District Attorneys
+Person: Blalack, Blalack Rice, Brooke Richards, Crystal Springs, Davis, Deryl Paul Dedmon, Dylan Wade Butler, Eric Holder, Glenda R. Haynes, Gupta, James Craig Anderson, John Aaron Rice, Jonathan Kyle Gaskamp, Joseph Paul Dominick, Paige M. Fitzgerald, Paul Dedmon, Robert Rice, Robert Rices, Sarah Adelia Graves, Shelbie Brooke Richards, Sheldon L. Beer, William Kirk Montgomery
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Attorney General, Butler, Deputy Chief, Special Agent
+Product: Ford F250, Jeep
+ProvinceOrState: Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Brandon
+Continent: America
+Facility: U.S. District Court
+IndustryTerm: law enforcement officers
+Organization: Attorneys Office, Civil Rights Division, Department of Justice, FBI Mississippi Division, Federal Bureau of Investigation, Jackson Division, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County, U.S. District Court
+Person: Brooke Richards, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, James Byrd , Jr., James Craig Anderson, John Aaron Rice, Jonathan Kyle Gaskamp, Joseph Dominick, Paige M. Fitzgerald, Paul Dedmon, Sarah Adelia Graves, Shelbie Brooke Richards, Sheldon L. Beer, Vanita Gupta, William Kirk Montgomery
+Position: Acting Assistant Attorney General, Attorney, Deputy Chief, Special Agent
+ProvinceOrState: Hinds County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Marysville, Yuba City
+Company: Yuba County Peckerwoods
+IndustryTerm: local white supremacist
+Organization: Civil Rights Division, Federal Bureau of Investigation, U.S. District Court, Yuba County District Attorneys Office, Yuba County Sheriffs Office
+Person: Anthony Merrell Tyler, Benjamin B. Wagner, Billy Hammett, James Byrd Jr., John A. Mendez, Perry Jackson, Trial Attorney Chiraag Bains, Vanita Gupta
+Position: Acting Assistant Attorney General, Attorney, Judge
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Springtown
+Company: emergency medical services
+IndustryTerm: federal law enforcement partners, law enforcement partners, state law enforcement partners
+Organization: Civil Rights Division, FBIs Dallas Division Office, Federal Bureau of Investigation, Parker County Sheriffs Office, Springtown Police Department, U.S. Attorneys office for the Northern District of Texas, Victims Sexual OrientationThe Justice Departments Civil Rights Division
+Person: Brice Johnson, Cara Foos Pierce, Sarah R. Saldaa, Trial Attorney Saeed Mody, Vanita Gupta
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Special Agent, U.S. District Judge
+ProvinceOrState: Texas
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Brandon, Pearl
+Organization: Civil Rights Division, Federal Bureau of Investigation, Hinds County District Attorneys office, Jackson Division, Jackson Police Department, Justice Departments Civil Rights Division, U.S. Attorneys office for the Southern District of Mississippi
+Person: Brooke Richards, Crystal Springs, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, Jocelyn Samuels, John Aaron Rice, John Louis Blalack, Jonathan Kyle Gaskamp, Joseph Dominick, Paige M. Fitzgerald, Robert Henry Rice, Sarah Adelia Graves, Shelbie Brooke Richards, Sheldon L. Beer, William Kirk Montgomery
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Deputy Chief
+ProvinceOrState: Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+City: Salt Lake City
+Facility: Congregation Kol Ami synagogue
+Organization: Civil Rights Division, Federal Bureau of Investigation, U.S. Attorneys Office, U.S. District Court, civil society
+Person: Carlie Christensen, Carlos Esqueda, Jocelyn Samuels, Macon Openshaw, Nicholas Durham, Tena Campbell
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Judge
+ProvinceOrState: Utah
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, NaturalDisaster, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+IndustryTerm: law enforcement arsenal
+NaturalFeature: Grand Isle
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Jocelyn Samuels, Josh Jambon, Kenneth Allen Polite Jr., Matt Chester, Risa Berkower, Susie Morgan
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge
+ProvinceOrState: Louisiana, Nova Scotia
+Region: Southeast Louisiana
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, Quotation
+City: Ozark
+Facility: U.S. District Court
+Organization: Civil Rights Division, Dale County Sheriffs Office, Federal Bureau of Investigation, Ku Klux Klan, Ozark Police Department, U.S. District Court for the Middle District of Alabama.Morris
+Person: Chiraag Bains, George L. Beck Jr., Jerusha T. Adams, Jocelyn Samuels, Pamela Morris, Steven Joshua Dinkle
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, leader, officer, secretary
+ProvinceOrState: Alabama
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, EmploymentRelation, Indictment, PersonAttributes, PersonCareer, Quotation, Trial
+Organization: Civil Rights Division, Dale County Sheriffs Office, Department of Justice, Federal Bureau of Investigation, Justice Department, Ku Klux Klan, Ozark Police Department, U.S. Attorneys Office for the Middle District, UN Court
+Person: Chiraag Bains, George L. Beck Jr., Jerusha T. Adams, Jocelyn Samuels, Pamela Morris, Steven Joshua Dinkle, Thomas Windell Smith, W. Keith Watkins
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Chief U.S. District Judge, special agent
+ProvinceOrState: Alabama
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Fort Worth, Springtown
+Company: emergency medical services, johnsons
+IndustryTerm: chat communications
+Organization: Civil Rights Division, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Parker County Sheriffs Office, Springtown Police Department, U.S. Attorneys office of the Northern District of Texas
+Person: Brice Johnson, Cara Foos Pierce, Trial Attorney Saeed Mody
+Position: Assistant U.S. Attorney
+ProvinceOrState: Texas
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Boise
+Organization: Boise City Police Department, Federal Bureau of Investigation, Justice Departments Civil Rights Division, U.S. Attorneys office for the District of Idaho
+Person: Barack Obama, Beau Edward Hansen, James Byrd Jr., Jonathan Lynn Henery, Wendy J. Olson
+Position: Attorney, President
+ProvinceOrState: Idaho
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: BusinessRelation, PersonCareer, Quotation
+Company: Ally Bank, CENTERPLATE, Financial Inc., Macys
+Facility: University of Montana Office
+IndustryTerm: court systems, fundamental infrastructure, police services
+Organization: Civil Rights Division, Consumer Finance Protection Bureau, Human Trafficking Prosecution Unit, Missoula Police Department, UN Court, University of Montana office of Public Safety
+Person: Initiative, James Byrd Jr., Jocelyn Samuels
+Position: Acting Assistant Attorney General, Attorney General
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation
+City: Marysville
+Organization: Federal Bureau of Investigation, Justice Departments Civil Rights Division, U.S. District Court
+Person: Anthony Merrell Tyler, Benjamin B. Wagner, Billy James Hammett, Chiraag Bains, James Byrd Jr., John A. Mendez, Perry Sylvester Jackson
+Position: Attorney, Judge
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Albuquerque
+Organization: Albuquerque Division, Federal Bureau of Investigation, U.S. Attorneys Office for the District, U.S. Department of Justices Civil Rights Division
+Person: Angie Cha, Holland S. Kastrin, John W. Ng
+Position: Assistant U.S. Attorney
+ProvinceOrState: New Mexico
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+City: Salt Lake City
+Facility: Congregation Kol Ami synagogue, U.S. District Court
+Organization: Civil Rights Division, Federal Bureau of Investigation, U.S. Attorneys Office, U.S. District Court for the District of Utah
+Person: Carlos Esqueda, David B. Barlow, Jocelyn Samuels, Macon Openshaw, Nicholas Durham, Tena Campbell
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge
+ProvinceOrState: Utah
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Marysville
+Organization: Civil Rights Division, Federal Bureau of Investigation, Justice Department's Civil Rights Division, UN Court, Yuba County District Attorney's Office, Yuba County Sheriff's Office
+Person: Anthony Merrell Tyler, Benjamin B. Wagner, Billy James Hammett, James Byrd Jr., Jocelyn Samuels, John A. Mendez, Perry Sylvester Jackson, Trial Attorney Chiraag Bains
+Position: Acting Assistant Attorney General, Attorney, District Judge, Judge
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Marysville
+Organization: Civil Rights Division, Federal Bureau of Investigation, U.S. Attorneys Office, UN Court
+Person: Act, Anthony Merrell Tyler, Benjamin B. Wagner, Billy James Hammett, James Byrd Jr., Perry Sylvester Jackson, Trial Attorney Chiraag Bains
+Position: Acting Assistant Attorney General, Attorney
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Albuquerque
+Organization: Albuquerque Division, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys Office for the District, U.S. Department of Justices Civil Rights Division
+Person: John W. Ng, Mark T. Baker
+Position: Assistant U.S. Attorney
+ProvinceOrState: New Mexico
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, Quotation
+City: Compton
+Company: john l. scott
+Continent: America
+Date: 2012-12-31
+IndustryTerm: metal pipe
+Organization: Civil Rights Division, FBIs Los Angeles Field Office, Federal Bureau of Investigation, Los Angeles County Sheriffs Department, U.S. Attorneys Office, U.S. Attorneys office for the Central District of California
+Person: Andr Birotte Jr., Efren Marquez Jr. (Stretch), Jeffrey Aguilar (Terco), Jocelyn Samuels, John L. Scott, Junior, Reema El-Amamy, Saeed Mody, Terry J. Hatter Jr.
+Position: Acting Assistant Attorney General, Assistant Director in Charge Bill L. Lewis, Assistant U.S. Attorney, Attorney, District Judge, Interim Sheriff
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, EmploymentRelation, PersonAttributes, PersonCareer, Quotation
+Organization: Civil Rights Division, Dale County Sheriffs Office, Department of Justice, Federal Bureau of Investigation, Ku Klux Klan, Ozark Police Department, U.S. Attorneys office for the Middle District of Alabama, UN Court
+Person: Chiraag Bains, George L. Beck Jr., Jerusha T. Adams, Jocelyn Samuels, Steven Joshua Dinkle, Thomas Windell Smith
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, special agent
+ProvinceOrState: Alabama
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, PersonLocation, Quotation
+City: New York, Patchogue
+Country: United States
+IndustryTerm: Law enforcement, police services
+Organization: Civil Division, Civil Rights Division, Suffolk County Legislature, Suffolk County Police Department, U.S. Attorneys Office, U.S. Attorneys office for the Eastern District of New York, U.S. Department of Justice
+Person: Jack Morse, Jocelyn Samuels, Laura Coon, Loretta E. Lynch, Marcelo Lucero, Michael J. Goldberger, Trial Attorneys Silvia Dominguez
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Chief, Special Litigation Counsel
+ProvinceOrState: New York, Suffolk County
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Nashville
+IndustryTerm: law enforcement
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Nashville Division, U.S. Attorneys Office
+Person: Blanche Cook, Christ, David Rivera, Jocelyn Samuels, John Bryant, Jonathan Caine, Nicholas Murphy
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Magistrate Judge, assistant, assistant coach, assistant football coach, coach, player, student and football player
+ProvinceOrState: Tennessee
+SportsGame: football
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Salt Lake City
+Facility: Congregation Kol Ami synagogue
+Organization: Central Division, Department of Justice, Federal Bureau of Investigation, Salt Lake City Division, U.S. Attorneys office for the District of Utah, U.S. Department of Justices Civil Rights Division
+Person: Carlos Esqueda, Macon Openshaw, Nicholas Durham
+Position: Assistant U.S. Attorney
+ProvinceOrState: Utah
+SportsLeague: Central Division
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, DiplomaticRelations, PersonAttributes, PersonCareer, Quotation
+City: Compton
+Date: 2012-12-31
+IndustryTerm: Law enforcement, law enforcement partners, metal pipe
+Organization: Civil Rights Division, Department of Justice, FBI's Los Angeles Field Office, Federal Bureau of Investigation, Los Angeles County Sheriffs Department, Los Angeles Sheriff's Department, Los Angeles Sheriffs Department, U.S. Attorneys Office
+Person: Andr Birotte Jr., Bill Lewis, Efren Marquez Jr., Jeffrey Aguilar, Jocelyn Samuels, Lee Baca, Reema El-Amamy, Saeed Mody, Terry J. Hatter Jr.
+Position: Acting Assistant Attorney General, Assistant Director, Assistant U.S. Attorney, Attorney, District Judge, Judge, Sheriff
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+Country: India
+Facility: U.S. District Court
+IndustryTerm: important tool
+Organization: Civil Rights Division, Department of Justice, U.S. District Court in Seattle
+Person: James Byrd Jr., Jamie Larson, Jenny A. Durkan, Roy L. Austin Jr., Washington Jenny
+Position: Attorney, Deputy Assistant Attorney General, cab driver, driver
+ProvinceOrState: Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: FamilyRelation, Indictment, PersonAttributes, PersonCareer, PersonLocation, PersonRelation
+City: Hillsboro, Portland
+IndustryTerm: metal tool
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Hillsboro Police Department, Portland Division
+Person: Fara Gold, George Allen Mason Jr., Hannah Horsley, James Byrd Jr., Saraya Sophia Lisa Gardner, Sophia Lisa Gardner
+Position: Assistant U.S. Attorney
+ProvinceOrState: Oregon
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Atlanta, Jack City, Pittsburgh
+IndustryTerm: federal hate crimes law, law enforcement arsenal
+Organization: Atlanta Police Department, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Superior Court
+Person: Brent Alan Gray, Christopher Cain, Dorian Moragne, James Byrd , Jr., Nicole Lee Ndumele, Roy L. Austin Jr., Sally Quillian Yates
+Position: Assistant U.S. Attorney, Attorney, Deputy Assistant Attorney General
+ProvinceOrState: Fulton County, Georgia
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Seattle, Washington
+Organization: Department of Justice, Federal Bureau of Investigation, Justices Civil Rights Division, Seattle Division, U.S. Attorneys office for the Western District of Washington and Trial, U.S. Department
+Person: Bruce F. Miyake, James Byrd Jr., Jamie Larson, Nicholas Durham
+Position: Assistant U.S. Attorney
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+City: Seagoville
+IndustryTerm: law enforcement arsenal
+Organization: Aryan Brotherhood, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Federal Correctional Institution
+Person: Errin Martin, James Byrd Jr., John Hall, Sarah R. Saldaa, Thomas E. Perez, Trial Attorney Adriana Vieco
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge
+ProvinceOrState: Texas
+Region: North Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Bergholz, Hammondsville, Irondale
+Country: United States
+Organization: Civil Rights Division, Cleveland Division, Department of Justice, FBI  Cleveland Field Office, Federal Bureau of Investigation, U.S. Attorneys office for the Northern District of Ohio and Deputy, United States Attorneys Office
+Person: Anna Miller, Bridget M. Brennan, Daniel S. Mullet, Dettlebach, Eli M. Miller, Elizabeth A. Miller, Emanuel Schrock, Emanuel Shrock, Emma J. Miller, Freeman Burkholder, Johnny S. Mullet, Kathryn Miller, Kristy Parker, Lester Miller, Lester Mullet, Lester S. Mullet, Levi F. Miller, Linda Shrock, Lovina Miller, Raymond Miller, Samuel Mullet, Samuel Mullet Sr., Stephen Anthony, Steven M. Dettelbach, Thomas E. Perez, Thomas Getz
+Position: Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Bishop, Chief, Corporal, Special Agent
+ProvinceOrState: Carroll, Holmes, Jefferson, Ohio, Trumbull
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, Quotation
+City: Compton
+Facility: U.S. District Court
+IndustryTerm: metal pipe
+Organization: Civil Rights Division, Department of Justice, FBI's Los Angeles Field Office, Federal Bureau of Investigation, Los Angeles County Sheriffs Department, U.S. Attorneys Office, U.S. District Court in Los Angeles
+Person: Andre Birotte Jr., Bill Lewis, Efren Marquez Jr., Jeffrey Aguilar, Junior, Lee Baca, Reema El-Amamy, Saeed Mody, Terco, Thomas E. Perez
+Position: Angeles County Sheriff, Assistant Attorney General, Assistant Director in Charge, Assistant U.S. Attorney, Attorney
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Detroit
+IndustryTerm: law enforcement arsenal
+Organization: Civil Rights Division, Congress, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys Office, U.S. Department of Justice
+Person: Barbara McQuade, Everett Dwayne Avery, James Byrd Jr., John Corbett, Pamela Thompson, Sanjay Patel, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Special Agent
+Technology: fracturing
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: FamilyRelation, Indictment, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Killeen, Philadelphia, West Palm Beach
+IndustryTerm: adequate food, food, law enforcement
+Organization: Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice Civil Rights Division Trial, Department of Justices Civil Rights Division, Federal Bureau of Investigation, Inspector General and Philadelphia Police, Internal Revenue Service, Philadelphia District Attorneys Office, Philadelphia Police Department, Social Security Administration office of Inspector General, Social Security Administrations office of Inspector General, U.S. Attorneys Office, West Palm Beach Field Office, office of the Inspector General
+Person: Betsy Biffl, Charge John Brosnan, Charles Ramsey, Eddie Wright, Faithe Moore Taylor, Gregory Thomas Sr., James Byrd Jr., Jean McIntosh, Linda Weston, Nicklaus Woodard, Richard P. Barrett, Thomas E. Perez, Zane David Memeger
+Position: Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Commissioner, U.S. Attorney, leader, representative
+ProvinceOrState: Florida, Pennsylvania, Texas, Virginia
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, PersonAttributes, PersonCareer, Quotation
+City: Marysville, Sacramento
+IndustryTerm: car windshield
+Organization: Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Anthony Merrell Tyler, Billy James Hammett, Chiraag Bains, James Byrd Jr., Perry Sylvester Jackson, R. Steven Lapham
+Position: Assistant U.S. Attorney, driver, woman driver
+ProvinceOrState: California, Yuba County
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Brandon, Jackson, Puckett
+Company: Ford
+Facility: U.S. District Court
+IndustryTerm: metal ball bearings
+MedicalCondition: bodily injury, injuries
+Organization: Civil Rights Division, Department of Justice, Department of Justice Civil Rights Division, Dominick, FBIs Jackson Field Office, Federal Bureau of Investigation, Hinds County District Attorneys Office, Jackson Division, Jackson Police Department, U.S. Attorneys office for the Southern District of Mississippi, U.S. District Court, United States Department
+Person: Daniel McMullen, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, James Craig Anderson, John Aaron Rice, Jonathan Kyle Gaskamp, Joseph Dominick, Paige M. Fitzgerald, Paul Dedmon, Sheldon L. Beer, Thomas E. Perez, William Kirk Montgomery
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Butler, Deputy Chief, Special Agent
+Product: Ford F250
+ProvinceOrState: Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Brandon, Jackson, Puckett
+Facility: U.S. District Court
+Organization: Civil Rights Division, Department of Justice, FBIs Jackson Division, Federal Bureau of Investigation, Hinds County District Attorneys Office, Jackson Division, Jackson Police Department, U.S. Attorneys office for the Southern District of Mississippi, U.S. District Court
+Person: Daniel McMullen, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, Gregory K. Davis, James Craig Anderson, James Craig Andersons, John Aaron Rice, Jonathan K. Gaskamp, Paige M. Fitzgerald, Paul Dedmon, Sheldon L. Beer, Thomas E. Perez, William Kirk Montgomery
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Butler, Deputy Chief, Special Agent
+Product: Jeep
+ProvinceOrState: Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Johnsonville
+Company: TODAYS
+MedicalCondition: severe injuries
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys Office
+Person: Brad Parham, Chase McClary, Christopher Lomax, Steven Stokes, Thomas E. Perez, William N. Nettles
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Florence County Sheriffs Investigator, Special Agent, victims head , face and neck
+ProvinceOrState: South Carolina
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+City: Seagoville
+Country: United States
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Federal Correctional Institution, Justice Department
+Person: Errin Martin, James Byrd , Jr., John Hall, Thomas E. Perez, Trial Attorney Adriana Vieco
+Position: Assistant Attorney General, Assistant U.S. Attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+IndustryTerm: law enforcement partners
+Organization: Civil Rights Division, Federal Bureau of Investigation, U.S. Attorney office for the Eastern District of Kentucky, and Trial, U.S. District Court
+Person: Alexis Jenkins, Angie Cha, Anthony Ray Jenkins, Anthony Sankey, Ashley Jenkins, David Jason Jenkins, Gregory F. Van Tatenhove, Hydee Hawkins, Kerry B. Harvey, Kevin Pennington, Mike Brown
+Position: Assistant U.S. Attorney, Attorney, Judge, ranger
+ProvinceOrState: Harlan County, Kentucky
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Bergholz, Cleveland, Hammondsville, Irondale
+Organization: Civil Rights Division, Cleveland Division, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys office for the Northern District of Ohio and Deputy
+Person: Anna Miller, Bridget M. Brennan, Dan Aaron Polster, Daniel S. Mullet, Eli M. Miller, Elizabeth A. Miller, Emanuel Shrock, Emma J. Miller, Freeman Burkholder, Johnny S. Mullet, Kathryn Miller, Kristy Parker, Lester Miller, Lester Mullet, Levi F. Miller, Linda Shrock, Lovina Miller, Raymond Miller, Sam Mullet, Samuel Mullet Sr, Samuel Mullet Sr., Steven Dettelbach, Thomas E. Perez, Thomas Getz
+Position: Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Bishop, Chief, Corporal, Judge
+ProvinceOrState: Holmes, Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Detroit
+Continent: America
+IndustryTerm: law enforcement arsenal
+Organization: Civil Rights Division, Congress, Department of Justice, Detroit Division, Federal Bureau of Investigation
+Person: Barbara McQuade, Everett Dwayne Avery, James Byrd Jr., John Corbett, Pam Thompson, Thomas E. Perez, Trial Attorney Sanjay Patel
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Judge, Special Agent
+ProvinceOrState: Michigan
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Houston
+Date: 1998-04-16
+IndustryTerm: law enforcement
+Organization: Civil Rights Division, Department of Justice, District Attorneys Office, FBIs Houston Field Office, Federal Bureau of Investigation, Houston Division, Houston Police Department, Justice Department
+Person: Brian Kerstetter, Charles Cannon, Gerard Hogan, James Byrd, James Byrd Jr., Kenneth Hoyt, Michael McLaughlin, Saeed Mody, Thomas E. Perez
+Position: Assistant Attorney General, District Judge, Special Agent, Special Litigation Counsel
+ProvinceOrState: Harris County, Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, FamilyRelation, PersonAttributes, PersonCareer, PersonLocation
+City: Baltimore, Essex
+Continent: Africa
+Organization: Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division
+Person: Angie Cha, Billy Pratt, Brittany Whedbee, Dena Whedbee, Ellen L. Hollander, Joshua Wall, Mia Winkley, P. Michael Cunningham
+Position: Assistant U.S. Attorney, District Judge, Special Agent
+ProvinceOrState: Maryland
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Johnsonville
+Company: federal bureau of investigation
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation
+Person: Act, Bill Nettles, Brad Parham, Chase McClary, Christopher Lomax, Steven Stokes, Thomas E. Perez
+Position: Assistant Attorney, Assistant U.S. Attorney, Attorney, Circuit Solicitor, Florence County Sheriffs Investigator, Special Agent, victims head , face and neck
+ProvinceOrState: South Carolina
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, ManMadeDisaster, PersonAttributes, PersonCareer, Quotation
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Kansas City Division, U.S. Attorneys office for the Western District of Missouri
+Person: Charles Wilhelm, David M. Ketchmark, David Martin, Dean Whipple, Nathaniel Reeds, Reed, Sheldon L. Beer, Thomas E. Perez, Witthar
+Position: Assistant Attorney General, Attorney, District Judge
+ProvinceOrState: Missouri
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: EmploymentChange, EmploymentRelation, PersonCareer, Quotation
+Company: ZUCKERMAN SPAEDER LLP
+Country: United States
+Facility: University of Baltimore School
+IndustryTerm: law, law enforcement component heads
+Organization: Congress, Department of Justice, Justice Department, Senate, University of Baltimore School of Law, office of Legislative Affairs
+Person: Arlen Specter, Edward M. Kennedy, Eric Holder, Harry Reid, James Byrd , Jr., Judith C. Appelbaum, Obama, Ronald Weich
+Position: Assistant Attorney General, Assistant Attorney General for Legislative Affairs, Majority Leader, President, acting assistant, attorney general, chief counsel, counsel, dean, deputy assistant, deputy attorney general , assistant
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Houston
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Harris County District Attorneys Office, Houston Division, Houston Police Department
+Person: Brian Kerstetter, Charles Cannon, Gerard Hogan, James Byrd , Jr., James Byrd Jr., Michael McLaughlin, Saeed Mody, Thomas E. Perez
+Position: Assistant Attorney General, Special Agent, Special Litigation Counsel, U.S. District Judge
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, Quotation
+Facility: U.S. District Court
+Organization: Department of Justice, U.S. District Court in London
+Person: Alexis LeeAnn, Alexis LeeAnn Jenkins, Anthony Ray Jenkins, Ashley Jenkins, David Jason Jenkins, James Byrd Jr., Kevin Pennington, Mable Ashley Jenkins
+ProvinceOrState: Harlan County, Kentucky
+Region: Eastern Kentucky
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: London, WASHINGTON
+Organization: Civil Rights Division, Department of Justice, U.S. Attorney office for the Eastern District of Kentucky and Trial
+Person: Angie Cha, Anthony Ray Jenkins, David Jason Jenkins, Hydee Hawkins, James Byrd Jr., Kevin Pennington
+Position: Assistant U.S. Attorney
+ProvinceOrState: Harlan County, Kentucky
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Brandon, Puckett
+Company: Andersons, TODAYS
+Facility: U.S. District Court
+Organization: Civil Rights Division, Department of Justice, District Attorneys Office, Federal Bureau of Investigation, Jackson Division, Jackson Police Department, U.S. Attorneys Office for the Southern District, U.S. Attorneys office for the Southern District of Mississippi and the Hinds County, U.S. District Court
+Person: Craig Anderson, Dan McMullen, Deryl Paul Dedmon, Dylan Wade Butler, Glenda R. Haynes, James Byrd , Jr., James Craig Anderson, John Aaron Rice, John Dowdy Jr., Paige M. Fitzgerald, Paul Dedmon, Sheldon L. Beer, Thomas E. Perez
+Position: Assistant Attorney General, Attorney, Butler, Deputy Chief, Special Agent
+Product: Ford F250, Jeep
+ProvinceOrState: Hinds County, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Independence, WASHINGTON
+Company: Witthar
+Facility: U.S. District Court
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Kansas City Division, U.S. Attorneys office for the Western District of Missouri, U.S. District Court in Kansas City
+Person: Beth Phillips, Charles Wilhelm, David Ketchmark, David Martin, Nathaniel Reeds, Sheldon L. Beer, Teresa Witthar, Thomas E. Perez
+Position: Assistant Attorney General, Attorney, First Assistant U.S. Attorney
+ProvinceOrState: Missouri
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+Organization: Beekman Junior High School, Civil Rights Division, Department of Justice, Federal Bureau of Investigation
+Person: Brian Wallis, Christine M. Siscaretti, James Lee Wallis Jr., Karen Hayes, Mark Blumberg, Mary J. Mudrick, Stephanie A. Finley, Thomas E. Perez, Tony L. Johnson
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Magistrate Judge, Senior Litigation Counsel
+ProvinceOrState: Louisiana, Morehouse Parish
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Independence
+Facility: U.S. District Court
+Organization: Civil Rights Division, Federal Bureau of Investigation, Kansas City Division, U.S. Attorneys office for the Western District of Missouri, U.S. District Court in Kansas City, United States Department of Justice
+Person: Beth Phillips, Brian A. Truchon, Charles Wilhelm, David Ketchmark, David Martin, Nathaniel Reed, Nathaniel Reeds, Sheldon L. Beer, Teresa Witthar, Thomas E. Perez
+Position: Assistant Attorney General, Attorney, First Assistant U.S. Attorney, Special Agent
+ProvinceOrState: Missouri
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonCareer, PersonLocation, Quotation
+City: Farmington, Fruitland, San Juan, Santa Fe
+Facility: U.S. District Court
+IndustryTerm: law enforcement, law enforcement partners, local law enforcement colleagues
+Organization: Albuquerque Division, Albuquerque FBI Division, Civil Rights Division, County District Attorneys Office, Department of Justice, Farmington Police Department, Federal Bureau of Investigation, Ku Klux Klan, U.S. Attorneys Office for the District, U.S. Department of Justice Civil Rights Division, U.S. District Court
+Person: Byrd Act, Carol K.O. Lee, Gerard Hogan, James Byrd Jr., Jesse Sanford, Kenneth J. Gonzales, Paul Beebe, Roberto Ortega, Thomas E. Perez, Trial Attorney Fara Gold, William Hatch
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Special Agent, Special Litigation Counsel, dream catcher, victims head
+ProvinceOrState: New Mexico
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer
+City: Houston
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Harris County District Attorneys Office, Harris County Sheriffs Office, Houston Division, Houston Police Department
+Person: Brian Kerstetter, Charles Cannon, Gerard Hogan, James Byrd Jr., Joseph Staggs, Michael McLaughlin, Saeed Mody
+Position: Special Litigation Counsel
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: CHATTANOOGA
+Company: INVESTIGATIVE
+Country: United States
+Facility: U.S. District Court
+IndustryTerm: federal law enforcement community
+Organization: Chattanooga Housing Authority, Chattanooga Housing Authority Police, Chattanooga Police Department, Civil Rights Division, Department of Justice, East Lake Courts Public Housing Authority, Federal Bureau of Investigation, U.S. District Court
+Person: Bill Killian, Chris Poole, Colton Partin, James Smiley, Kyle Montgomery, Myesha Braden, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Judge, attorney general, district attorney
+ProvinceOrState: Tennessee
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: PersonCareer, PersonLocation, Quotation
+City: Bergholz, Cleveland, WASHINGTON
+IndustryTerm: law enforcement partners
+Organization: Civil Rights Division, Cleveland Division, Department of Justice, FBI  Cleveland Field Office, Federal Bureau of Investigation, U.S. Attorneys office for the Northern District of Ohio and Deputy
+Person: Anna Miller, Bridget M. Brennan, Daniel S. Mullet, Eli M. Miller, Emanuel Shrock, Freeman Burkholder, Johnny S. Mullet, Kristy Parker, Lester Miller, Lester Mullet, Levi F. Miller, Linda Shrock, Raymond Miller, Samuel Mullet Sr., Stephen Anthony, Steven M. Dettelbach, Thomas Getz
+Position: Assistant Attorney General, Assistant U.S. Attorneys, Attorney, Bishop, Chief, Corporal, Special Agent
+ProvinceOrState: Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Colville, SPOKANE, Washington
+IndustryTerm: explosive device, law enforcement, law enforcement arsenal, law enforcement efforts, local law enforcement
+Organization: Bureau of Alcohol, Tobacco, Firearms and Explosives, Civil Rights Division, Department of Homeland Security  Homeland Security Investigations, Department of Justice, Federal Air Marshal Service, Federal Bureau of Investigation, Joint Terrorism Task Force, National Security Division, Spokane County Sheriffs Office, Spokane Explosives Disposal Unit, Spokane Police Department, Stevens County Road Department, Stevens County Sheriffs Office, U.S. Marshals Service, Washington State Employment Security Department
+Person: James Byrd Jr., Kevin William Harpham, Laura M. Laughlin, Martin Luther King Jr., Michael C. Ormsby
+Position: Assistant Attorney General, Assistant Attorney General for National Security, Attorney
+ProvinceOrState: Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Hardy, WASHINGTON, Waldron
+Continent: America
+Facility: U.S. District Court
+IndustryTerm: unregistered firearm/destructive device
+Organization: Arkansas State Police, Bureau of Alcohol, Tobacco, Firearms and Explosives, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Little Rock Office, U.S. Department of Justice Civil Rights Division, U.S. District Court
+Person: Christopher R. Thyer, Dustin Hammond, Gary Dodson, Henry Leventis, Jake Murphy, Jason Barnwell, John Ray White, Thomas E. Perez, Trial Attorneys Cindy Chung, Wendy Treybig
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Arkansas
+Region: Northeast Arkansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Midland
+Company: Craigs
+Country: Mexico
+Facility: Craigs Gym
+Organization: Aryan Brotherhood, Aryan Brotherhood of Texas, Bureau of Alcohol, Tobacco, Firearms and Explosives, Christ Church, Civil Rights Division, Crane Police Department, Department of Justice, Federal Bureau of Investigation, Justice Department, Texas Department of Insurance
+Person: Crane, John Klassen, Robert A. Junell, Robert Pitman, Steven Scott Cantrell, Thomas E. Perez, Victor Boutros
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Special Agent, district attorney
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonCareer, PersonLocation
+City: Bergholz, Cleveland, Hammondsville
+Organization: Civil Rights Division, Cleveland Division, Federal Bureau of Investigation, U.S. Attorneys office for the Northern District of Ohio and Deputy
+Person: Bridget M. Brennan, Daniel S. Mullet, Eli M. Miller, Emanuel Schrock, Johnny S. Mullet, Kristy Parker, Lester S. Mullet, Levi F. Miller, Samuel Mullet Sr., Steven M. Dettelbach, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Chief
+ProvinceOrState: Ohio
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Arlington
+Facility: Dar El-Eman Islamic Center
+Organization: Arlington Police Department, Bureau of Prisons, Civil Rights Division, Dar El-Eman Islamic Center, Department of Justice, Federal Bureau of Investigation, Tarrant County District Attorneys Office
+Person: Alex Lewis, Henry Clay Glaspell, Sarah R. Saldaa, Terry R. Means, Thomas E. Perez, Victor Boutros
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Judge
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonTravel, Quotation
+Company: astheArkansas Civil Rights Working Group
+Country: Mexico
+IndustryTerm: gas station parking lot, victims car
+Organization: Arkansas State Police Department, Carroll County Sheriffs Office, Civil Rights Division, Department of Justice, Federal Bureau of Investigation
+Person: Cindy Chung, Conner Eldridge, Frankie Maybee, James Byrd Jr., Kyra E. Jenner, Sean Popejoy, Thomas E. Perez, Trial Attorneys Edward Chung
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Arkansas
+Region: Northern Arkansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+Organization: Beekman Junior High School, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys office for the Western District of Louisiana
+Person: Brian Wallis, Christine M. Siscaretti, James Lee Wallis Jr., Mark Blumberg, Mary J. Mudrick, Stephanie A. Finley, Thomas E. Perez, Tony L. Johnson
+Position: Assistant Attorney General, Assistant United States Attorney, Attorney, Senior Litigation Counsel
+ProvinceOrState: Louisiana, Morehouse Parish
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, ManMadeDisaster, PersonAttributes, PersonCareer, Quotation
+City: Midland
+Company: Craigs, Crane
+Country: Mexico
+Facility: Craigs Gym
+Organization: Aryan Brotherhood, Aryan Brotherhood of Texas, Christ Church, Department of Justice, Federal Bureau of Investigation, Justice Department
+Person: Crane, John E. Murphy, Robert A. Junell, Steven Scott Cantrell, Thomas E. Perez, W. Jay Abbott
+Position: Acting Special Agent, Assistant Attorney General for Civil Rights, Attorney, District Judge
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Arrest, Conviction, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Coeur dAlene, TACOMA, Vancouver
+Company: TODAYS
+Facility: Captains Sports Bar, U.S. District Court
+Organization: Civil Rights Division, Department of Justice, Department of Justice Civil Rights Division, Federal Bureau of Investigation, U.S. District Court for the Western District, Vancouver Police
+Person: Bruce Miyake, Jenny A. Durkan, Kory Boyd, Lawrence Silk, Robert J. Bryan, Thomas E. Perez, Trial Attorney Edward Caspar, Washington Jenny, Zachary Beck
+PhoneNumber: 911
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, bartender, federal Judge, mans head
+ProvinceOrState: Idaho, Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Hardy, WASHINGTON, Waldron
+Facility: U.S. District Court
+IndustryTerm: law enforcement
+Organization: Arkansas State Police, Bureau of Alcohol, Tobacco, Firearms and Explosives, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Little Rock Division, U.S. Department of Justice Civil Rights Division, U.S. District Court
+Person: Christopher R. Thyer, Dustin Hammond, Gary Dodson, Henry Leventis, Jake Murphy, Jason Walter Barnwell, John Ray White, Thomas E. Perez, Wendy Treybig
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Arkansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Indictment, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Corvallis, Eugene
+Country: United States
+Organization: Benton County Sheriffs Office, Bureau of Alcohol, Tobacco, Firearms and Explosives, Civil Rights Division, Corvallis Fire Department, Corvallis Police Department, Department of Justice, Departments Civil Rights Division, Federal Bureau of Investigation, Portland Division, Salman Alfarisi Islamic Center, U.S. Department of Justice
+Person: Cody Crawford, Dwight C. Holton, Fara Gold, Greg Fowler, Thomas E. Perez, William E. (Bud) Fitzgerald
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney for the District of Oregon Dwight C. Holton, Benton County District Attorney, Special Agent
+ProvinceOrState: Monmouth, Oregon, Oregon Dwight C. Holton
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonCareer, PersonLocation, Quotation
+City: ALBUQUERQUE, Farmington, Fruitland, San Juan
+Facility: U.S. District Court
+IndustryTerm: law enforcement, law enforcement arsenal, law enforcement communitys
+Organization: Albuquerque Division, Civil Rights Division, Department of Justice, Farmington Police Department, Federal Bureau of Investigation, Ku Klux Klan, San Juan County District Attorneys Office, U.S. Attorneys Office for the District, U.S. Department of Justice Civil Rights Division, U.S. District Court
+Person: Byrd Act, Carol K.O. Lee, Gerard Hogan, James Byrd Jr., Jesse Sanford, Kenneth J. Gonzales, Paul Beebe, Roberto Ortega, Trial Attorney Fara Gold, William Hatch
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Special Agent, Special Litigation Counsel, dream catcher, victims head
+ProvinceOrState: New Mexico, New Mexico Kenneth J. Gonzales
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonTravel, Quotation
+Continent: Africa
+Country: United States
+IndustryTerm: federal law
+Organization: Civil Rights Division, Department of Homeland Security, Department of Justice, Transportation Security Administration in Minneapolis, office of Inspector General
+Person: Ann M. Anaya, B. Todd Jones, George Thompson, James Byrd Jr., Thomas E. Perez, Trial Attorney Nicole Lee Ndumele
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney for the District of Minnesota
+ProvinceOrState: Minnesota
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+IndustryTerm: gas station parking lot, law enforcement arsenal, victims car
+NaturalFeature: Green Forest
+Organization: Arkansas State Police Department, Carroll County Sheriffs Office, Civil Rights Division, Department of Justice
+Person: Conner Eldridge, Edward Chung, James Byrd Jr., Kyra E. Jenner, Sean Popejoy, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Arkansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, Quotation
+IndustryTerm: gas station parking lot, victims car
+Organization: Arkansas State Police Department, Carroll County Sheriffs Office, Civil Rights Division, Department of Justice, FBIs Fayetteville Division, Justice Department
+Person: Conner Eldridge, Edward Chung, James Byrd , Jr., James Byrd Jr., Kyra Jenner, Matthew Shepard, Sean Popejoy, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Arkansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, PersonAttributes, PersonLocation, Quotation
+City: Colville, Spokane
+IndustryTerm: explosive device
+Organization: Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division, National Security Division, U.S. Attorneys office for the Eastern District of Washington
+Person: Kevin Harpham, Main Streets, Martin Luther King Jr., Washington Streets
+ProvinceOrState: Washington
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, PersonAttributes, PersonCareer, Quotation
+IndustryTerm: gas station parking lot, victims car
+Organization: Arkansas State Police Department, Carroll County Sheriffs Office, Department of Justice, FBIs Fayetteville Division, Justices Civil Rights Division
+Person: Conner Eldridge, Edward Chung, Frankie Maybee, James Byrd Jr., Kyra Jenner, Sean Popejoy
+Position: Assistant U.S. Attorney, Attorney
+ProvinceOrState: Arkansas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Shenandoah
+Continent: America
+Country: Mexico
+Facility: Geisinger Regional Medical Center
+IndustryTerm: metal
+Organization: Civil Rights Division, Department of Justice, FBIs Philadelphia Division, Geisinger Regional Medical Center, Shenandoah Police Department, Shenandoah police, U.S. Attorneys office for the Middle District of Pennsylvania
+Person: Brandon Piekarsky, Colin Walsh, Derrick Donchak, Gerard V. Hogan, Matthew Nestor, Myesha Braden, Thomas E. Perez, William Moyer
+Position: Assistant Attorney General, Chief, officer
+ProvinceOrState: Pennsylvania
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, ManMadeDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Arlington, Fort Worth
+Facility: Dar El-Eman Islamic Center
+IndustryTerm: local law enforcement allies
+Organization: Arlington Police Department, Civil Rights Division, Dallas Division, Dar El-Eman Islamic Center, Department of Justice, Federal Bureau of Investigation, Tarrant County District Attorney's Office
+Person: Alex Lewis, Henry Clay Glaspell, James T. Jacks, Robert E. Casey Jr., Terry R. Means, Thomas E. Perez, Victor Boutros
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Special Agent
+ProvinceOrState: Texas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonCareer, PersonCommunication, Quotation
+City: Shenandoah, WASHINGTON, Wilkes-Barre
+IndustryTerm: law enforcement officers
+Organization: Civil Rights Division, Federal Bureau of Investigation, Schuylkill County District Attorneys Office, Shenandoah Police, Shenandoah Police Department, U.S. Attorneys office for the Middle District of Pennsylvania
+Person: Brandon Piekarsky, Derrick Donchak, Jason Hayes, Luis Ramirez, Matthew Nestor, Shan Patel, Thomas E. Perez, Trial Attorneys Myesha Braden, William Moyer
+Position: Assistant Attorney General, Lieutenant, Officer, chief
+ProvinceOrState: Pennsylvania
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonAttributes, PersonCareer, PersonLocation
+City: Albuquerque, Farmington, WASHINGTON
+Organization: FBIs Albuquerque Division, Farmington Police Department, Justices Civil Rights Division, Ku Klux Klan, San Juan County District Attorneys Office
+Person: Gerard Hogan, James Byrd Jr., Jesse Sanford, Paul Beebe, Roberto D. Ortega, Trial Attorney Fara Gold, William Hatch
+Position: Assistant U.S. Attorney, Special Litigation Counsel, victims head
+ProvinceOrState: New Mexico
+Technology: cellular telephone
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, EmploymentChange, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Springfield
+Country: United States
+IndustryTerm: law enforcement, local law enforcement partners, metal superstructure, religious services
+Organization: African-American Church, Bureau of Alcohol, Tobacco and Firearms, Department of Justices Civil Rights Division, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Macedonia Church of God, UN Court
+Person: Barack Obama, Benjamin Haskell, Carmen Ortiz, Michael A. Ponsor, Nicole Lee Ndumele, Paul H. Smyth, Richard DesLauriers, Thomas E. Perez
+PoliticalEvent: presidential election
+Position: Assistant Attorney General, Assistant U.S. Attorneys, Attorney for the District of Massachusetts Carmen Ortiz, District Judge, President, President of the United States, Special Agent, prosecutor
+ProvinceOrState: Massachusetts, Massachusetts Carmen Ortiz
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonCareer, PersonCommunication, PersonLocation, Quotation
+City: Scranton, Shenandoah, WASHINGTON
+Continent: America
+Country: Mexico
+Facility: Geisinger Regional Medical Center
+IndustryTerm: metal
+Organization: Civil Rights Division, Department of Justice, FBIs Philadelphia Division, Geisinger Regional Medical Center, Shenandoah Police Department
+Person: A. Richard Caputo, Brandon Piekarsky, Derrick Donchak, Gerard V. Hogan, Luis Ramirez, Myesha Braden, Thomas E. Perez
+Position: Assistant Attorney General, District Judge
+ProvinceOrState: Pennsylvania
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonCareer, PersonLocation
+City: Bastrop
+Organization: Beekman Junior High School, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys office for the Western District of Louisiana
+Person: Christopher Shane Montgomery, Kevonne Small, Mary Mudrick, Shane Montgomery
+Position: Assistant U.S. Attorney
+ProvinceOrState: Louisiana
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Chico, SACRAMENTO, San Francisco
+Country: United Kingdom
+Facility: Rileys Bar
+IndustryTerm: loan applications
+Organization: Butte County Sheriffs Department, Chico Police Department, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, U.S. Attorneys Office, U.S. District Court
+Person: Benjamin B. Wagner, Edward Chung, Eric Clawson, Joe Grivette, Mark Roberts, Russell Carlberg, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Judge, Special Agent
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, NaturalDisaster, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: New Orleans
+Country: Columbia
+Organization: Civil Rights Division, Federal Bureau of Investigation, New Orleans Field Office
+Person: Forrest Christian, Jim Letten, Roland J. Bourgeois Jr., W. Scott Laragy
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Special Agent
+ProvinceOrState: Louisiana, Mississippi
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, FamilyRelation, PersonAttributes, PersonCareer, PersonRelation, Quotation
+City: Fairfield, Lake Tahoe, Sacramento
+Continent: America
+Country: India
+NaturalFeature: El Dorado Beach
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, South Lake Tahoe Police Department, U.S. District Court
+Person: Benjamin B. Wagner, Brad J. Bilderback, C. Douglas Kern, Carolyn K. Delaney, Christopher Campion, Georgia Silva, John A. Mendez, Joseph Silva, Michael J. Frank, Rhett Gann, Thomas E. Perez
+Position: Assistant Attorney General, Attorney, First Assistant U.S. Attorney, Judge, Officer, Special Agent
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation
+City: Downsville
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Monroe Resident Agency, U.S. Department of Justice
+Person: Mary Mudrick, Robert Jackson, Stephanie A. Finley, Trial Attorney Myesha Braden
+Position: Assistant U.S. Attorney, Attorney
+ProvinceOrState: Louisiana
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonCareer, Quotation
+City: Virginia Beach, WASHINGTON
+Company: Citibank
+Country: United States
+IndustryTerm: bank
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Special Agent David Church, White National Socialist American Working Party, Workers Party
+Person: C. Patrick Hogeboom , III, Cindy Chung, David Church, James C. Turk, John Richmond, Thomas E. Perez, Timothy J. Heaphy, William A. "Bill" White
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Judge, federal judge, self-proclaimed commander of the neo-Nazi group, university administrator, victims secretary
+ProvinceOrState: Virginia
+PublishedMedium: the ANSWP Magazine
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, PersonTravel, Quotation
+City: Sacramento, San Francisco
+Facility: Calif. bar, Rileys Bar
+Organization: Butte County District Attorneys Office, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Sacramento Division, U.S. Attorneys office for the Eastern District of California and Trial
+Person: Benjamin B. Wagner, Edward Chung, Eric Clawson, Joe Grivette, Russell Carlberg, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Indictment, PersonCareer, PersonLocation, Quotation
+City: Allentown, Shenandoah
+Continent: America
+IndustryTerm: law enforcement officers
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Philadelphia Division, Resident Agency, Shenandoah Police, Shenandoah Police Department
+Person: Adam Aichele, Alan Jones, Anthony Cavallo, Brandon Piekarsky, Derrick Donchak, Eric L. Gibson, Jamie Gennarini, Jason Hayes, Luis Ramirez, Matthew Nestor, Myesha Braden, Thomas E. Perez, William Moyer
+PhoneNumber: (610) 433-6488
+Position: Assistant Attorney General, Captain, Chief, Officer, businessman, indictment charges Chief, local businessman
+ProvinceOrState: Pennsylvania, Schuylkill County
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, Quotation
+City: Florence
+Company: stop and shop
+IndustryTerm: law enforcement partners
+NaturalFeature: South Carolinas Great Pee Dee River
+Organization: Bureau of Alcohol, Tobacco, Firearms and Explosives, Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Justice Departments Civil Rights Division, Marlboro County Sheriffs Department, U.S. Department of Justice Trial Attorney Michael J. Frank
+Person: A. Bradley Parham, Jackson M. Hayes, Judson Hartley Talbert, Shawn Feldner, Steven Stokes, Thomas E. Perez, Thomas Howard Blue Jr., Thomas Howard Blue Sr., W. Walter Wilkins
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Investigator, Special Agent
+ProvinceOrState: South Carolina
+Region: South Carolinas
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Boise, Middleton, Nampa
+Company: Department of Justice, Wal-Mart
+Continent: America
+Country: United States
+Facility: Mart store
+Organization: Civil Rights Division, DOJ, Department of Justice, Federal Bureau of Investigation, Nampa Police Department, United States Attorneys Office
+Person: Edward J. Lodge, Erin Aslan, James Whitewater, Jennifer Hartpence, Michael Bullard, Richard Armstrong, Thomas E. Perez, Tom Moss, Wendy Olson
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge
+ProvinceOrState: Idaho
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Alexandria, Lecompte
+Organization: Civil Rights Division, Department of Justice, Federal Bureau of Investigation, Sheriffs Office, U.S. Attorneys office for the Western District of Louisiana
+Person: Dee Drell, Donald Washington, Johnny D. Mathis, Mary J. Mudrick, Michael J. Frank, Thomas E. Perez
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, District Judge, Trial Attorney
+ProvinceOrState: Louisiana, Rapides Parish
+Region: western Louisiana
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Arrest, Indictment, PersonAttributes, PersonCareer, PersonLocation, Quotation
+City: Athens, Minden
+Organization: Civil Rights Division, Federal Bureau of Investigation
+Person: Daniel Earl Danforth, Donald W. Washington, Erin Aslan, Loretta King, Mary J. Mudrick
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: Louisiana
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: CandidatePosition, Conviction, PersonAttributes, PersonCareer, Quotation, VotingResult
+City: New York
+Company: Michael Contreras
+IndustryTerm: metal pipe
+MedicalCondition: coma
+NaturalFeature: Park Hill, Staten Island
+Organization: Civil Rights Division, Department of Justice, Department of Justice Civil Rights Division, Federal Bureau of Investigation, New York City Police Department, New York Field Office, Richmond County District Attorneys Office, UN Court
+Person: Barack Obama, Barack Obamas, Benton J. Campbell, Brian Carranza, Bryan Garaventa, Carol B. Amon, Joseph M. Demarest Jr., Kristy L. Parker, Loretta King, Margo K. Brodie, Michael Contreras, N.Y. Ralph Nicoletti, Pamela K. Chen, Y. Ralph Nicoletti
+PoliticalEvent: presidential election
+Position: Acting Assistant Attorney General, Assistant, Assistant U.S. Attorneys, Attorney, District Judge, President, Special Litigation Counsel
+ProvinceOrState: N.Y
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, Conviction, PersonCareer, Quotation
+City: Boise, Nampa
+Company: Wal-Mart
+Continent: America
+Facility: Mart store
+Holiday: 4th of July
+IndustryTerm: law enforcement
+Organization: Civil Rights Division, FBIs Salt Lake City Field Office, Federal Bureau of Investigation, Nampa Police Department
+Person: Bill Augsburger, Dominic Venturi, Erin Aslan, James Whitewater, Jason Kimball, Jennifer Hartpence, Loretta King, Michael Bullard, Richard Armstrong, Thomas E. Moss, Timothy Fuhrman, Wendy Olson
+Position: Assistant Attorney General, Assistant U.S. Attorney, Attorney, Attorney for the District of Idaho, Chief, Detective, King, King , Acting Assistant Attorney General, Special Agent
+ProvinceOrState: Idaho
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: ArmedAttack, PersonCareer, PersonLocation, Quotation
+City: Sacramento, WASHINGTON
+MedicalCondition: significant facial injuries
+Organization: Civil Rights Division, FBIs Sacramento Division, U.S. Attorneys office for the Eastern District of California and Trial
+Person: Benjamin Wagner, Douglas Kern, Georgia Silva, Joseph Silva, Lawrence G. Brown, Loretta King
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney
+ProvinceOrState: California
+Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.Relations: Conviction, Indictment, PersonCareer, PersonLocation, Quotation
+City: Medford, WASHINGTON
+IndustryTerm: explosive device
+Organization: Civil Rights Division, Department of Justice, Ku Klux Klan
+Person: Ann Aiken, Bud Fitzgerald, Devan Klausegger, Gary Moss, Karin J. Immergut, Loretta King, Trial Attorney Roy Conn
+Position: Acting Assistant Attorney General, Assistant U.S. Attorney, Attorney, Judge, King , Acting Assistant Attorney General
+ProvinceOrState: Oregon
