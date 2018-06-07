@@ -1,0 +1,608 @@
+thomas e. perez: 47
+james byrd jr.: 42
+vanita gupta: 35
+jr.: 18
+james byrd: 17
+saeed mody: 15
+sheldon l. beer: 14
+jocelyn samuels: 13
+deryl paul dedmon: 11
+dylan wade butler: 11
+glenda r. haynes: 11
+john aaron rice: 11
+james craig anderson: 10
+john gore: 10
+paige m. fitzgerald: 10
+gregory k. davis: 9
+nicholas durham: 9
+paul dedmon: 9
+benjamin b. wagner: 8
+jonathan kyle gaskamp: 8
+tom wheeler: 8
+william kirk montgomery: 8
+kenneth magidson: 7
+sarah adelia graves: 7
+chiraag bains: 6
+crystal springs: 6
+eric holder: 6
+gerard hogan: 6
+loretta e. lynch: 6
+anthony merrell tyler: 5
+barack obama: 5
+bridget m. brennan: 5
+brooke richards: 5
+dana mulhauser: 5
+daniel s. mullet: 5
+edward chung: 5
+eli m. miller: 5
+johnny s. mullet: 5
+joseph paul dominick: 5
+kristy parker: 5
+levi f. miller: 5
+loretta king: 5
+nigel garrett: 5
+risa berkower: 5
+robert henry rice: 5
+ruben perez: 5
+samuel mullet sr.: 5
+shelbie brooke richards: 5
+tracey batson: 5
+trial attorneys jared fishman: 5
+act: 4
+angie cha: 4
+anna miller: 4
+billy james hammett: 4
+brandon piekarsky: 4
+brit featherston: 4
+bruce miyake: 4
+chancler encalade: 4
+conner eldridge: 4
+derrick donchak: 4
+freeman burkholder: 4
+george l. beck jr.: 4
+jimmy garza jr.: 4
+john a. mendez: 4
+john louis blalack: 4
+lester miller: 4
+lester mullet: 4
+linda shrock: 4
+mary j. mudrick: 4
+mona furst: 4
+myesha braden: 4
+olimpia michel: 4
+perry sylvester jackson: 4
+ramiro serrata jr.: 4
+raymond miller: 4
+sean popejoy: 4
+steven joshua dinkle: 4
+steven m. dettelbach: 4
+thomas getz: 4
+annette l. hayes: 3
+anthony ray jenkins: 3
+anthony shelton: 3
+armando sotelo: 3
+brian kerstetter: 3
+cameron ajiduah: 3
+carlos esqueda: 3
+carole s. rendon: 3
+charles butler: 3
+charles cannon: 3
+charles wilhelm: 3
+christine m. siscaretti: 3
+david jason jenkins: 3
+david martin: 3
+elizabeth a. miller: 3
+emanuel schrock: 3
+emanuel shrock: 3
+emma j. miller: 3
+erin aslan: 3
+jared fishman: 3
+jerusha t. adams: 3
+jesse sanford: 3
+joseph dominick: 3
+julia gegenheimer: 3
+kathryn miller: 3
+kevin pennington: 3
+lovina miller: 3
+luis ramirez: 3
+macon openshaw: 3
+matthew nestor: 3
+michael freeman: 3
+michael mclaughlin: 3
+nathaniel reeds: 3
+omar cantero martinez: 3
+pamela morris: 3
+paul beebe: 3
+reema el-amamy: 3
+robert paschalis: 3
+sarah r. saldaa: 3
+stephanie a. finley: 3
+steven stokes: 3
+trial attorney chiraag bains: 3
+trial attorney fara gold: 3
+trial attorney saeed mody: 3
+victor boutros: 3
+william hatch: 3
+william moyer: 3
+alex lewis: 2
+andr birotte jr.: 2
+angela munoz-kaphing: 2
+anthony morfitt: 2
+ashley jenkins: 2
+b. lynn winmill: 2
+barbara mcquade: 2
+benjamin g. greenberg: 2
+beth phillips: 2
+bill lewis: 2
+bill nettles: 2
+boogie: 2
+brad parham: 2
+brian wallis: 2
+brice johnson: 2
+byrd act: 2
+cara foos pierce: 2
+carlos hernandez: 2
+carol k.o. lee: 2
+chase mcclary: 2
+christopher c. myers: 2
+christopher freeze: 2
+christopher lomax: 2
+christopher perras: 2
+christopher r. thyer: 2
+cindy chung: 2
+conrad alvin barrett: 2
+crane: 2
+dana j. boente: 2
+daniel george fisher: 2
+daniel mcmullen: 2
+david ketchmark: 2
+dustin hammond: 2
+eddie wright: 2
+edwin felix: 2
+efren marquez jr.: 2
+eric clawson: 2
+errin martin: 2
+everett dwayne avery: 2
+faithe moore taylor: 2
+fara gold: 2
+francisco farias: 2
+frankie maybee: 2
+gabriel davis: 2
+gallo: 2
+gary dodson: 2
+georgia silva: 2
+gerald wallace: 2
+gerard v. hogan: 2
+gray miller: 2
+gregory thomas sr.: 2
+harry c. wallace: 2
+henry clay glaspell: 2
+henry leventis: 2
+hydee hawkins: 2
+jake murphy: 2
+james craig andersons: 2
+james lee wallis jr.: 2
+james whitewater: 2
+james william hill iii: 2
+jamie larson: 2
+jason hayes: 2
+jean mcintosh: 2
+jeffrey aguilar: 2
+jennifer hartpence: 2
+jenny a. durkan: 2
+jimmy garza: 2
+joe grivette: 2
+joe magliolo: 2
+joel matthew monarrez: 2
+john corbett: 2
+john hall: 2
+john healey: 2
+john ray white: 2
+john w. ng: 2
+jonathan portillo: 2
+jose saucedo: 2
+joseph silva: 2
+junior: 2
+kelly schneider: 2
+kenneth j. gonzales: 2
+kevin w. techau: 2
+kyra e. jenner: 2
+kyra jenner: 2
+lee baca: 2
+lester s. mullet: 2
+lil moe: 2
+linda r. reade: 2
+linda weston: 2
+mack e. jenkins: 2
+malo: 2
+maria chapa lopez: 2
+mark blumberg: 2
+martin luther king jr.: 2
+mary mudrick: 2
+matthew gust: 2
+matthew shepard: 2
+megan a. healy: 2
+mercedes williamson: 2
+michael bullard: 2
+michael j. frank: 2
+michael ron david kadar: 2
+nicklaus woodard: 2
+nicole lee ndumele: 2
+obama: 2
+pelon: 2
+ramona gardens: 2
+randy metcalf: 2
+richard armstrong: 2
+richard p. barrett: 2
+robert a. junell: 2
+roberto ortega: 2
+roy l. austin jr.: 2
+ruben r. perez: 2
+russell carlberg: 2
+s. david schiller: 2
+samantha trepel: 2
+samuel mullet: 2
+shelby brooke richards: 2
+stephen anthony: 2
+steven nelson: 2
+steven scott cantrell: 2
+tena campbell: 2
+teresa witthar: 2
+terry j. hatter jr.: 2
+terry r. means: 2
+thomas windell smith: 2
+tony l. johnson: 2
+trayvon martin: 2
+trial attorney adriana vieco: 2
+trial attorneys saeed mody: 2
+washington jenny: 2
+wendy j. olson: 2
+wendy olson: 2
+wendy treybig: 2
+william kyle montgomery: 2
+a. bradley parham: 1
+a. lee bentley iii: 1
+a. richard caputo: 1
+abe martinez: 1
+adam aichele: 1
+adam s. lee: 1
+adam w. purinton: 1
+adeel zeb: 1
+aejean cha: 1
+alan jones: 1
+alexis jenkins: 1
+alexis leeann: 1
+alexis leeann jenkins: 1
+alok madasani: 1
+andre birotte jr.: 1
+andrew luger: 1
+andrew m. luger: 1
+angeline echevarria: 1
+ann aiken: 1
+ann m. anaya: 1
+anthony cavallo: 1
+anthony sankey: 1
+arlen specter: 1
+b. todd jones: 1
+barack obamas: 1
+beau edward hansen: 1
+ben wagner: 1
+benjamin haskell: 1
+benjamin wagner: 1
+benton j. campbell: 1
+betsy biffl: 1
+bill augsburger: 1
+bill killian: 1
+billy hammett: 1
+billy pratt: 1
+blalack: 1
+blalack rice: 1
+blanche cook: 1
+brad j. bilderback: 1
+brandon vallum: 1
+bremerton: 1
+brent alan gray: 1
+brian a. truchon: 1
+brian carranza: 1
+brittany whedbee: 1
+bruce f. miyake: 1
+bryan garaventa: 1
+bud fitzgerald: 1
+c. douglas kern: 1
+c. patrick hogeboom: 1
+carlie christensen: 1
+carlos garcia: 1
+carlos garcia jr.: 1
+carlton reeves: 1
+carmen ortiz: 1
+carol b. amon: 1
+carolyn k. delaney: 1
+cassandra deck-brown: 1
+charge john brosnan: 1
+charles e. peeler: 1
+charles ramsey: 1
+charlie beck: 1
+chris poole: 1
+christ: 1
+christina a. snyder: 1
+christopher beckham: 1
+christopher cain: 1
+christopher campion: 1
+christopher j. perras: 1
+christopher shane montgomery: 1
+christopher wray: 1
+cindy k. chung: 1
+cody crawford: 1
+colin walsh: 1
+colton partin: 1
+craig anderson: 1
+cynthia m. rufe: 1
+d.s. they: 1
+dan aaron polster: 1
+dan mcmullen: 1
+daniel earl danforth: 1
+daniel george: 1
+daniel irick: 1
+david b. barlow: 1
+david church: 1
+david h. howard: 1
+david m. ketchmark: 1
+david priceprofessor: 1
+david rivera: 1
+david zabel: 1
+davis: 1
+deah shaddy barakat: 1
+dean whipple: 1
+debra saunders-white: 1
+dee benson: 1
+dee drell: 1
+dena whedbee: 1
+dettlebach: 1
+devan klausegger: 1
+diego martinez: 1
+dominic venturi: 1
+don cochran: 1
+donald w. washington: 1
+donald washington: 1
+dorian moragne: 1
+douglas kern: 1
+douglas m. miller: 1
+duke law: 1
+dwight c. holton: 1
+dylann roof: 1
+earl johnson: 1
+edward j. lodge: 1
+edward m. kennedy: 1
+efren marquez jr. (stretch): 1
+eileen m. decker: 1
+ellen l. hollander: 1
+emanuel: 1
+eric barnhart: 1
+eric l. gibson: 1
+everett ward: 1
+exalted cyclops: 1
+forrest christian: 1
+fred foster: 1
+g. f. peterman iii: 1
+gary moss: 1
+george allen mason jr.: 1
+george thompson: 1
+george zimmerman: 1
+greg fowler: 1
+gregory f. van tatenhove: 1
+gupta: 1
+hannah horsley: 1
+harold brittain: 1
+harry reid: 1
+holland s. kastrin: 1
+ian grillot: 1
+ii: 1
+iii: 1
+initiative: 1
+irving joyner: 1
+izmir koch: 1
+j. drew yeates: 1
+jack morse: 1
+jackson m. hayes: 1
+james byrd hate: 1
+james c. turk: 1
+james coleman: 1
+james comey: 1
+james gonzalo medina: 1
+james l. robart: 1
+james smiley: 1
+james t. jacks: 1
+jamie gennarini: 1
+jason barnwell: 1
+jason kimball: 1
+jason libby: 1
+jason walter barnwell: 1
+jay golden: 1
+jeffrey aguilar (terco): 1
+jeffrey allen burgess: 1
+jesse panuccio: 1
+jessie k. liu: 1
+jim letten: 1
+john a. gibney: 1
+john bryant: 1
+john dowdy jr.: 1
+john e. murphy: 1
+john klassen: 1
+john l. scott: 1
+john m. gore: 1
+john richmond: 1
+john w. huber: 1
+johnny d. mathis: 1
+jonathan caine: 1
+jonathan k. gaskamp: 1
+jonathan lynn henery: 1
+jose lopez: 1
+jose zamora: 1
+joseph d. brown: 1
+joseph m. demarest jr.: 1
+joseph staggs: 1
+josephine w. thomas: 1
+josh jambon: 1
+joshua brandon vallum: 1
+joshua wall: 1
+josue garibay: 1
+judith c. appelbaum: 1
+judson hartley talbert: 1
+juliana cabrales: 1
+karen hayes: 1
+karin j. immergut: 1
+kate suh: 1
+kenneth allen polite jr.: 1
+kenneth e. blanco: 1
+kenneth hoyt: 1
+kerry b. harvey: 1
+kevin harpham: 1
+kevin william harpham: 1
+kevonne small: 1
+kory boyd: 1
+kristy l. parker: 1
+kyle montgomery: 1
+l. scott coogler: 1
+laura coon: 1
+laura m. laughlin: 1
+lawrence g. brown: 1
+lawrence silk: 1
+louis blalack: 1
+louis guirola jr.: 1
+lucy dinner: 1
+lynch: 1
+mable ashley jenkins: 1
+main streets: 1
+marc anton: 1
+marcelo lucero: 1
+marcia g. cooke: 1
+margo k. brodie: 1
+mark giuliano: 1
+mark porter: 1
+mark roberts: 1
+mark t. baker: 1
+marq vincent perez: 1
+martin alan schnitzler: 1
+matt chester: 1
+megan gaffney: 1
+melanie newman: 1
+mia winkley: 1
+michael a. ponsor: 1
+michael c. ormsby: 1
+michael contreras: 1
+michael j. goldberger: 1
+michael thakur: 1
+mike brown: 1
+mohammed: 1
+monte mcfall: 1
+n.y. ralph nicoletti: 1
+nancy petty: 1
+nathaniel reed: 1
+nicholas murphy: 1
+nicola t. hanna: 1
+otis james byrd: 1
+p. michael cunningham: 1
+paige fitzgerald: 1
+pam thompson: 1
+pamela k. chen: 1
+pamela thompson: 1
+paul anderson: 1
+paul d. delacourt: 1
+paul h. smyth: 1
+perry jackson: 1
+phillip a. talbert: 1
+phyliss craig taylor: 1
+pilar rocha-goldberg: 1
+r. steven lapham: 1
+rachael l. dizard: 1
+rachel kincaid: 1
+rachelle shannon: 1
+rafael m. gonzalez: 1
+ralph hunt sr.: 1
+ralph m. terrazas: 1
+rand: 1
+razan mohammad abu-salha: 1
+reed: 1
+rhett gann: 1
+richard andrews: 1
+richard deslauriers: 1
+robert e. casey jr.: 1
+robert j. bryan: 1
+robert jackson: 1
+robert pitman: 1
+robert rice: 1
+robert rices: 1
+roberto d. ortega: 1
+roland j. bourgeois jr.: 1
+ronald weich: 1
+rose e. gibson: 1
+ryan murgua: 1
+sally quillian yates: 1
+sam mullet: 1
+samuel mullet sr: 1
+samuel mulllet sr.: 1
+sanjay patel: 1
+sara beth myers: 1
+saraya sophia lisa gardner: 1
+scarlett wilson: 1
+screamed homophobic slurs: 1
+sgro: 1
+shan patel: 1
+shane montgomery: 1
+sharad s. khandelwal: 1
+shawn feldner: 1
+sheldon beer: 1
+soo c. song: 1
+sophia lisa gardner: 1
+srinivas kuchibhotla: 1
+steve curran: 1
+steven dettelbach: 1
+susie morgan: 1
+taryn meeks: 1
+terco: 1
+thomas e. beall: 1
+thomas e. moss: 1
+thomas e. wheeler: 1
+thomas e. wheeler ii: 1
+thomas g. walker: 1
+thomas howard blue jr.: 1
+thomas howard blue sr.: 1
+thomas smith: 1
+timothy fuhrman: 1
+timothy j. heaphy: 1
+tom beall: 1
+tom moss: 1
+tona boyd: 1
+tonya sconiers: 1
+trial attorney edward caspar: 1
+trial attorney myesha braden: 1
+trial attorney nicole lee ndumele: 1
+trial attorney roy conn: 1
+trial attorney sanjay patel: 1
+trial attorneys cindy chung: 1
+trial attorneys edward chung: 1
+trial attorneys myesha braden: 1
+trial attorneys patricia sumner: 1
+trial attorneys silvia dominguez: 1
+tris hunt: 1
+victoria fire: 1
+vincent perez: 1
+w. jay abbott: 1
+w. keith watkins: 1
+w. scott laragy: 1
+w. stephen muldrow: 1
+w. walter wilkins: 1
+washington field: 1
+washington streets: 1
+wilhelmina m. wright: 1
+william a. "bill" white: 1
+william barber: 1
+william bill bell: 1
+william e. (bud) fitzgerald: 1
+william e. nolan: 1
+william n. nettles: 1
+witthar: 1
+y. ralph nicoletti: 1
+yusor mohammad abu-salha: 1
+zachary beck: 1
+zane david memeger: 1
