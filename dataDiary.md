@@ -146,5 +146,7 @@ Although I'm leaving it for now this is the final count on tags associated with 
 * sentencing: 44
 * Hate Crime: 163
 
-I still need to go throug the USAO's [Justice 101](https://www.justice.gov/usao/justice-101).  
+I still need to go throug the USAO's [Justice 101](https://www.justice.gov/usao/justice-101). But that's going to happen later. 
+
+I emailed Sari Horwitz @ the Post earlier today to see if she or someone she knows can explain how the DoJ process works from referral forward. I cc'ed Sarah and Len.  
 
