@@ -1,22 +1,22 @@
 ﻿releaseID,person,role,title,caseGroup,bias,district
-1164,Adam W. Purinton,defendant,-,1,race,KS
-1164,David Zabel,prosecutor,Assistant United States Attorney,1,race,KS
-1164,Tris Hunt,prosecutor,Assistant United States Attorney,1,race,KS
-1164,Chritopher J. Perras,prosecutor,Trial Attorney,1,race,KS
+1164,Adam W. Purinton,defendant,-,1,–,KS
+1164,Chritopher J. Perras,prosecutor,Trial Attorney,1,–,KS
+1164,David Zabel,prosecutor,Assistant United States Attorney,1,–,KS
+1164,Tris Hunt,prosecutor,Assistant United States Attorney,1,–,KS
 7762,Alexis LeeAnn Jenkins,defendant,-,2,lgbt,KY
 7762,Anthony Ray Jenkins,defendant,-,2,lgbt,KY
 7762,David Jason Jenkins,defendant,-,2,lgbt,KY
 7762,Mable Ashley Jenkins,defendant,-,2,lgbt,KY
-7762,Hydee Hawkins,prosecutor,Assistant United States Attorney,2,lgbt,KY
 7762,Angie Cha,prosecutor,Trial Attorney,2,lgbt,KY
+7762,Hydee Hawkins,prosecutor,Assistant United States Attorney,2,lgbt,KY
 8450,Alexis LeeAnn Jenkins,defendant,-,2,lgbt,KY
 8450,Anthony Ray Jenkins,defendant,-,2,lgbt,KY
 8450,David Jason Jenkins,defendant,-,2,lgbt,KY
 8450,Mable Ashley Jenkins,defendant,-,2,lgbt,KY
 8458,Anthony Ray Jenkins,defendant,-,2,lgbt,KY
 8458,David Jason Jenkins,defendant,-,2,lgbt,KY
-8458,Hydee Hawkins,prosecutor,Assistant United States Attorney,2,lgbt,KY
 8458,Angie Cha,prosecutor,Trial Attorney,2,lgbt,KY
+8458,Hydee Hawkins,prosecutor,Assistant United States Attorney,2,lgbt,KY
 4640,Anna Miller,defendant,-,3,religion,OHN
 4640,Daniel S. Mullet,defendant,-,3,religion,OHN
 4640,Eli M. Miller,defendant,-,3,religion,OHN
@@ -34,8 +34,8 @@
 4640,Raymond Miller,defendant,-,3,religion,OHN
 4640,Samuel Mullet,defendant,-,3,religion,OHN
 4640,Bridget M. Brennan,prosecutor,Assistant United States Attorney,3,religion,OHN
-4640,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 4640,Kristy Parker,prosecutor,"Deputy Chief, Civil Rights Division",3,religion,OHN
+4640,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 7365,Anna Miller,defendant,-,3,religion,OHN
 7365,Daniel S. Mullet,defendant,-,3,religion,OHN
 7365,Eli M. Miller,defendant,-,3,religion,OHN
@@ -53,8 +53,8 @@
 7365,Raymond Miller,defendant,-,3,religion,OHN
 7365,Samuel Mullet,defendant,-,3,religion,OHN
 7365,Bridget M. Brennan,prosecutor,Assistant United States Attorney,3,religion,OHN
-7365,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 7365,Kristy Parker,prosecutor,"Deputy Chief, Civil Rights Division",3,religion,OHN
+7365,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 7882,Anna Miller,defendant,-,3,religion,OHN
 7882,Daniel S. Mullet,defendant,-,3,religion,OHN
 7882,Eli M. Miller,defendant,-,3,religion,OHN
@@ -72,8 +72,8 @@
 7882,Raymond Miller,defendant,-,3,religion,OHN
 7882,Samuel Mullet,defendant,-,3,religion,OHN
 7882,Bridget M. Brennan,prosecutor,Assistant United States Attorney,3,religion,OHN
-7882,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 7882,Kristy Parker,prosecutor,"Deputy Chief, Civil Rights Division",3,religion,OHN
+7882,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 8904,Anna Miller,defendant,-,3,religion,OHN
 8904,Daniel S. Mullet,defendant,-,3,religion,OHN
 8904,Eli M. Miller,defendant,-,3,religion,OHN
@@ -86,15 +86,15 @@
 8904,Raymond Miller,defendant,-,3,religion,OHN
 8904,Samuel Mullet,defendant,-,3,religion,OHN
 8904,Bridget M. Brennan,prosecutor,Assistant United States Attorney,3,religion,OHN
-8904,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
 8904,Kristy Parker,prosecutor,"Deputy Chief, Civil Rights Division",3,religion,OHN
-9039,Daniel S. Mullet,defendant,-,3,religion,OHN
-9039,Eli M. Miller,defendant,-,3,religion,OHN
-9039,Emanuel Schrock,defendant,-,3,religion,OHN
-9039,Johnny S. Mullet,defendant,-,3,religion,OHN
-9039,Lester Mullet,defendant,-,3,religion,OHN
-9039,Levi F. Miller,defendant,-,3,religion,OHN
-9039,Samuel Mullet,defendant,-,3,religion,OHN
+8904,Thomas Getz,prosecutor,Assistant United States Attorney,3,religion,OHN
+9039,Daniel S. Mullet,defendant,,3,religion,OHN
+9039,Eli M. Miller,defendant,,3,religion,OHN
+9039,Emanuel Schrock,defendant,,3,religion,OHN
+9039,Johnny S. Mullet,defendant,,3,religion,OHN
+9039,Lester Mullet,defendant,,3,religion,OHN
+9039,Levi F. Miller,defendant,,3,religion,OHN
+9039,Samuel Mullet,defendant,,3,religion,OHN
 9039,Bridget M. Brennan,prosecutor,Assistant United States Attorney,3,religion,OHN
 9039,Kristy Parker,prosecutor,"Deputy Chief, Civil Rights Division",3,religion,OHN
 4998,Anthony Merrell Tyler,defendant,-,4,african-american,CAE
@@ -122,13 +122,13 @@
 7439,R. Steven Lapham,prosecutor,Assistant United States Attorney,4,african-american,CAE
 1568,Armando Sotelo,defendant,-,5,immigrant,KS
 1568,Omar Cantero Martine,defendant,-,5,immigrant,KS
-1568,Mona Furst,prosecutor,Assistant United States Attorney,5,immigrant,KS
 1568,Jared Fishman,prosecutor,Special Litigation Counsel,5,immigrant,KS
+1568,Mona Furst,prosecutor,Assistant United States Attorney,5,immigrant,KS
 1568,Risa Berkower,prosecutor,Trial Attorney,5,immigrant,KS
 1902,Armando Sotelo,defendant,-,5,immigrant,KS
 1902,Omar Cantero Martinez,defendant,-,5,immigrant,KS
-1902,Mona Furst,prosecutor,Assistant United States Attorney,5,immigrant,KS
 1902,Jared Fishman,prosecutor,Special Litigation Counsel,5,immigrant,KS
+1902,Mona Furst,prosecutor,Assistant United States Attorney,5,immigrant,KS
 1902,Risa Berkower,prosecutor,Trial Attorney,5,immigrant,KS
 2759,Armando Sotelo,defendant,-,5,immigrant,KS
 2759,Omar Cantero Martinez,defendant,-,5,immigrant,KS
@@ -137,49 +137,49 @@
 5799,Beau Edward Hansen,defendant,-,6,african-american,ID
 5799,Jonathan Lynn Henery,defendant,-,6,african-american,ID
 5799,Wendy J. Olson,prosecutor,Assistant United States Attorney,6,african-american,ID
-10547,Benjamin Haskell,defendant,-,7,african-american,ID
+10547,Benjamin Haskell,defendant,,7,african-american,ID
 10547,Kevin Oregan,prosecutor,Assistant United States Attorney,7,african-american,ID
 10547,Paul H. Smyth,prosecutor,Assistant United States Attorney,7,african-american,ID
-9984,Brandon Piekarsky,defendant,-,8,latino,PAM
-9984,Colin Walsh,defendant,-,8,latino,PAM
-9984,Derrick Donchak,defendant,-,8,latino,PAM
+9984,Brandon Piekarsky,defendant,,8,latino,PAM
+9984,Colin Walsh,defendant,,8,latino,PAM
+9984,Derrick Donchak,defendant,,8,latino,PAM
 9984,Gerard Hogan,prosecutor,Special Litigation Counsel,8,latino,PAM
 9984,Myesha Braden,prosecutor,Trial Attorney,8,latino,PAM
-10258,Brandon Piekarsky,defendant,-,8,latino,PAM
-10258,Derrick Donchak,defendant,-,8,latino,PAM
-10258,Matthew Nestor,defendant,-,8,latino,PAM
-10258,William Moyer,defendant,-,8,latino,PAM
+10258,Brandon Piekarsky,defendant,,8,latino,PAM
+10258,Derrick Donchak,defendant,,8,latino,PAM
+10258,Matthew Nestor,defendant,,8,latino,PAM
+10258,William Moyer,defendant,,8,latino,PAM
 10258,Myesha Braden,prosecutor,Trial Attorney,8,latino,PAM
 10258,Shan Patel,prosecutor,Trial Attorney,8,latino,PAM
-10619,Brandon Piekarsky,defendant,-,8,latino,PAM
-10619,Derrick Donchak,defendant,-,8,latino,PAM
+10619,Brandon Piekarsky,defendant,,8,latino,PAM
+10619,Derrick Donchak,defendant,,8,latino,PAM
 10619,Gerard Hogan,prosecutor,Special Litigation Counsel,8,latino,PAM
 10619,Myesha Braden,prosecutor,Trial Attorney,8,latino,PAM
-11591,Brandon Piekarsky,defendant,-,8,latino,PAM
-11591,Derrick Donchak,defendant,-,8,latino,PAM
+11591,Brandon Piekarsky,defendant,,8,latino,PAM
+11591,Derrick Donchak,defendant,,8,latino,PAM
 11591,Eric L. Gibson,prosecutor,Trial Attorney,8,latino,PAM
 11591,Myesha Braden,prosecutor,Trial Attorney,8,latino,PAM
-11894,Brian Carranza,defendant,-,9,african-american,NYE
-11894,Bryan Garaventa,defendant,-,9,african-american,NYE
-11894,Michael Contreras,defendant,-,9,african-american,NYE
-11894,Ralph Nicoletti,defendant,-,9,african-american,NYE
+11894,Brian Carranza,defendant,,9,african-american,NYE
+11894,Bryan Garaventa,defendant,,9,african-american,NYE
+11894,Michael Contreras,defendant,,9,african-american,NYE
+11894,Ralph Nicoletti,defendant,,9,african-american,NYE
+11894,Kristy Parker,prosecutor,Special Litigation Counsel,9,african-american,NYE
 11894,Margo K. Brodie,prosecutor,Assistant United States Attorney,9,african-american,NYE
 11894,Pamela K. Chen,prosecutor,Assistant United States Attorney,9,african-american,NYE
-11894,Kristy Parker,prosecutor,Special Litigation Counsel,9,african-american,NYE
-12617,Brian Carranza,defendant,-,9,african-american,NYE
-12617,Bryan Garaventa,defendant,-,9,african-american,NYE
-12617,Michael Contreras,defendant,-,9,african-american,NYE
-12617,Ralph Nicoletti,defendant,-,9,african-american,NYE
+12617,Brian Carranza,defendant,,9,african-american,NYE
+12617,Bryan Garaventa,defendant,,9,african-american,NYE
+12617,Michael Contreras,defendant,,9,african-american,NYE
+12617,Ralph Nicoletti,defendant,,9,african-american,NYE
+12617,Kristy Parker,prosecutor,Special Litigation Counsel,9,african-american,NYE
 12617,Margo K. Brodie,prosecutor,Assistant United States Attorney,9,african-american,NYE
 12617,Pamela K. Chen,prosecutor,Assistant United States Attorney,9,african-american,NYE
-12617,Kristy Parker,prosecutor,Special Litigation Counsel,9,african-american,NYE
-12683,Brian Carranza,defendant,-,9,african-american,NYE
-12683,Bryan Garaventa,defendant,-,9,african-american,NYE
-12683,Michael Contreras,defendant,-,9,african-american,NYE
-12683,Ralph Nicoletti,defendant,-,9,african-american,NYE
+12683,Brian Carranza,defendant,,9,african-american,NYE
+12683,Bryan Garaventa,defendant,,9,african-american,NYE
+12683,Michael Contreras,defendant,,9,african-american,NYE
+12683,Ralph Nicoletti,defendant,,9,african-american,NYE
+12683,Kristy Parker,prosecutor,Special Litigation Counsel,9,african-american,NYE
 12683,Margo K. Brodie,prosecutor,Assistant United States Attorney,9,african-american,NYE
 12683,Pamela K. Chen,prosecutor,Assistant United States Attorney,9,african-american,NYE
-12683,Kristy Parker,prosecutor,Special Litigation Counsel,9,african-american,NYE
 8087,Brian Kerstetter,defendant,-,10,african-american,TXS
 8087,Charles Cannon,defendant,-,10,african-american,TXS
 8087,Michael McLaughlin,defendant,-,10,african-american,TXS
@@ -199,21 +199,21 @@
 8713,Brian Wallis,defendant,-,11,african-american,LAW
 8713,James Lee Wallis Jr.,defendant,-,11,african-american,LAW
 8713,Tony L. Johnson,defendant,-,11,african-american,LAW
-8713,Mary J. Mudrick,prosecutor,Assistant United States Attorney,11,african-american,LAW
-8713,Mark Blumberg,prosecutor,Senior Litigation Councel,11,african-american,LAW
 8713,Christine M. Siscaretti,prosecutor,Trial Attorney,11,african-american,LAW
-9379,Brian Wallis,defendant,-,11,african-american,LAW
-9379,James Lee Wallis Jr.,defendant,-,11,african-american,LAW
-9379,Tony L. Johnson,defendant,-,11,african-american,LAW
-9379,Mary J. Mudrick,prosecutor,Assistant United States Attorney,11,african-american,LAW
-9379,Mark Blumberg,prosecutor,Senior Litigation Councel,11,african-american,LAW
+8713,Mark Blumberg,prosecutor,Senior Litigation Councel,11,african-american,LAW
+8713,Mary J. Mudrick,prosecutor,Assistant United States Attorney,11,african-american,LAW
+9379,Brian Wallis,defendant,,11,african-american,LAW
+9379,James Lee Wallis Jr.,defendant,,11,african-american,LAW
+9379,Tony L. Johnson,defendant,,11,african-american,LAW
 9379,Christine M. Siscaretti,prosecutor,Trial Attorney,11,african-american,LAW
+9379,Mark Blumberg,prosecutor,Senior Litigation Councel,11,african-american,LAW
+9379,Mary J. Mudrick,prosecutor,Assistant United States Attorney,11,african-american,LAW
 3032,Deryl Paul Dedmon,defendant,-,12,african-american,MSS
 3032,Dylan Wade Butler,defendant,-,12,african-american,MSS
 3032,John Aaron Rice,defendant,-,12,african-american,MSS
 3032,William Kirk Montgomery,defendant,-,12,african-american,MSS
-3032,Paige M. Fitzgerald,prosecutor,"Acting Chief, Civil Rights Division",12,african-american,MSS
 3032,Glenda R. Haynes,prosecutor,Assistant United States Attorney,12,african-american,MSS
+3032,Paige M. Fitzgerald,prosecutor,"Acting Chief, Civil Rights Division",12,african-american,MSS
 3032,Sheldon L. Beer,prosecutor,Trial Attorney,12,african-american,MSS
 4350,Deryl Paul Dedmon,defendant,-,12,african-american,MSS
 4350,Dylan Wade Butler,defendant,-,12,african-american,MSS
@@ -330,8 +330,8 @@
 8166,Dena Whedbee,defendant,-,13,immigrant,MD
 8166,Joshua Wall,defendant,-,13,immigrant,MD
 8166,Billy Pratt,defendant,-,13,immigrant,MD
-8166,P. Michael Cunningham,prosecutor,Assistant United States Attorney,13,immigrant,MD
 8166,Angie Cha,prosecutor,Trial Attorney,13,immigrant,MD
+8166,P. Michael Cunningham,prosecutor,Assistant United States Attorney,13,immigrant,MD
 2927,Carlos Garcia Jr.,defendant,-,14,african-american,TXS
 2927,Jimmy Garza Jr.,defendant,-,14,african-american,TXS
 2927,Ramiro Serrata Jr.,defendant,-,14,african-american,TXS
@@ -344,19 +344,19 @@
 3075,Nicholas Durham,prosecutor,Trial Attorney,14,african-american,TXS
 3685,Jimmy Garza Jr.,defendant,-,14,african-american,TXS
 3685,Ramiro Serrata Jr.,defendant,-,14,african-american,TXS
-3685,Ruben R. Perez,prosecutor,Assistant United States Attorney,14,african-american,TXS
 3685,Jared Fishman,prosecutor,Trial Attorney,14,african-american,TXS
 3685,Nicholas Durham,prosecutor,Trial Attorney,14,african-american,TXS
+3685,Ruben R. Perez,prosecutor,Assistant United States Attorney,14,african-american,TXS
 3729,Jimmy Garza Jr.,defendant,-,14,african-american,TXS
 3729,Ramiro Serrata Jr.,defendant,-,14,african-american,TXS
-3729,Ruben R. Perez,prosecutor,Assistant United States Attorney,14,african-american,TXS
 3729,Jared Fishman,prosecutor,Trial Attorney,14,african-american,TXS
 3729,Nicholas Durham,prosecutor,Trial Attorney,14,african-american,TXS
+3729,Ruben R. Perez,prosecutor,Assistant United States Attorney,14,african-american,TXS
 3837,Jimmy Garza Jr.,defendant,-,14,african-american,TXS
 3837,Ramiro Serrata Jr.,defendant,-,14,african-american,TXS
-3837,Ruben R. Perez,prosecutor,Assistant United States Attorney,14,african-american,TXS
 3837,Jared Fishman,prosecutor,Trial Attorney,14,african-american,TXS
 3837,Nicholas Durham,prosecutor,Trial Attorney,14,african-american,TXS
+3837,Ruben R. Perez,prosecutor,Assistant United States Attorney,14,african-american,TXS
 63,"Carlos Hernandez, aka Rider",defendant,-,15,african-american,CAC
 63,"Edwin Felix, aka Boogie",defendant,-,15,african-american,CAC
 63,"Francisco Farias, aka Bones",defendant,-,15,african-american,CAC
@@ -365,8 +365,8 @@
 63,"Jose Saucedo, aka Lil Moe",defendant,-,15,african-american,CAC
 63,"Jose Zamora, aka Fresco",defendant,-,15,african-american,CAC
 63,"Josue Garibay, aka Malo",defendant,-,15,african-american,CAC
-63,Mack E. Jenkins,prosecutor,Assistant United States Attorney,15,african-american,CAC
 63,Julia Gegenheimer,prosecutor,Trial Attorney,15,african-american,CAC
+63,Mack E. Jenkins,prosecutor,Assistant United States Attorney,15,african-american,CAC
 2486,"Carlos Hernandez, aka Creeper and Rider",defendant,-,15,african-american,CAC
 2486,"Edwin Felix, aka Boogie",defendant,-,15,african-american,CAC
 2486,"Francisco Farias, aka Bones",defendant,-,15,african-american,CAC
@@ -375,48 +375,48 @@
 2486,"Jose Saucedo, aka Lil Moe",defendant,-,15,african-american,CAC
 2486,"Joseue Garibay, aka Malo",defendant,-,15,african-american,CAC
 2486,Douglas M. Miller,prosecutor,Assistant United States Attorney,15,african-american,CAC
-2486,Mack E. Jenkins,prosecutor,Assistant United States Attorney,15,african-american,CAC
 2486,Julia Gegenheimer,prosecutor,Trial Attorney,15,african-american,CAC
+2486,Mack E. Jenkins,prosecutor,Assistant United States Attorney,15,african-american,CAC
 2486,Patricia Sumner,prosecutor,Trial Attorney,15,african-american,CAC
 214,Chancler Encalade,defendant,-,16,lgbt,TXE
 214,Nigel Garrett,defendant,-,16,lgbt,TXE
-214,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 214,Saeed Mody,prosecutor,Trial Attorney,16,lgbt,TXE
+214,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 429,Nigel Garrett,defendant,-,16,lgbt,TXE
-429,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 429,Saeed Mody,prosecutor,Trial Attorney,16,lgbt,TXE
+429,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 824,Anthony Shelton,defendant,-,16,lgbt,TXE
 824,Cameron Ajiduah,defendant,-,16,lgbt,TXE
 824,Chancler Encalade,defendant,-,16,lgbt,TXE
 824,Nigel Garrett,defendant,-,16,lgbt,TXE
-824,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 824,Saeed Mody,prosecutor,Trial Attorney,16,lgbt,TXE
+824,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 900,Cameron Ajiduah,defendant,-,16,lgbt,TXE
 900,Nigel Garrett,defendant,-,16,lgbt,TXE
-900,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 900,Saeed Mody,prosecutor,Trial Attorney,16,lgbt,TXE
+900,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 1266,Anthony Shelton,defendant,-,16,lgbt,TXE
 1266,Cameron Ajiduah,defendant,-,16,lgbt,TXE
 1266,Chancler Encalade,defendant,-,16,lgbt,TXE
 1266,Nigel Garrett,defendant,-,16,lgbt,TXE
-1266,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 1266,Saeed Mody,prosecutor,Trial Attorney,16,lgbt,TXE
+1266,Tracey Batson,prosecutor,Assistant United States Attorney,16,lgbt,TXE
 1418,Charles Butler,defendant,-,17,african-american,OHN
 1418,Robert Paschalis,defendant,-,17,african-american,OHN
-1418,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 1418,Dana Mulhauser,prosecutor,Trial Attorney,17,african-american,OHN
+1418,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 1921,Charles Butler,defendant,-,17,african-american,OHN
 1921,Robert Paschalis,defendant,-,17,african-american,OHN
-1921,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 1921,Dana Mulhauser,prosecutor,Trial Attorney,17,african-american,OHN
+1921,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 1983,Charles Butler,defendant,-,17,african-american,OHN
 1983,Robert Paschalis,defendant,-,17,african-american,OHN
-1983,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 1983,Dana Mulhauser,prosecutor,Trial Attorney,17,african-american,OHN
+1983,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 2396,Charles Butler,defendant,-,17,african-american,OHN
 2396,Robert Paschalis,defendant,-,17,african-american,OHN
-2396,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 2396,Dana Mulhauser,prosecutor,Trial Attorney,17,african-american,OHN
+2396,Michael Freeman,prosecutor,Assistant United States Attorney,17,african-american,OHN
 8203,Charles Wilhelm,defendant,-,18,race,MOW
 8203,David Martin,defendant,-,18,race,MOW
 8203,Teresa Witthar,defendant,-,18,race,MOW
@@ -439,19 +439,19 @@
 8196,Brad Parham,prosecutor,Assistant United States Attorney,19,african-american,SC
 8196,Christopher Lomax,prosecutor,Trial Attorney,19,african-american,SC
 51,Christopher Beckham,defendant,-,20,religion,TNM
-51,Sara Beth Myers,prosecutor,Assistant United States Attorney,20,religion,TNM
 51,Christine M. Siscaretti,prosecutor,Trial Attorney,20,religion,TNM
 51,Rachel Kincaid,prosecutor,Trial Attorney,20,religion,TNM
+51,Sara Beth Myers,prosecutor,Assistant United States Attorney,20,religion,TNM
 7122,Christopher Cain,defendant,-,21,lgbt,GA
 7122,Dorian Moragne,defendant,-,21,lgbt,GA
 7122,Brent Alan Gray,prosecutor,Assistant United States Attorney,21,lgbt,GA
 7122,Nicole Lee Ndumele,prosecutor,Trial Attorney,21,lgbt,GA
-10679,Christopher Shane Montgomery,defendant,-,22,african-american,LAW
-10679,Mary J. Mudrick,prosecutor,Assistant United States Attorney,22,african-american,LAW
+10679,Christopher Shane Montgomery,defendant,,22,african-american,LAW
 10679,Kevonne Small,prosecutor,Trial Attorney,22,african-american,LAW
-9424,Cody Crawford,defendant,-,23,religion,OR
-9424,William E. Fitzgerald,prosecutor,Assistant United States Attorney,23,religion,OR
+10679,Mary J. Mudrick,prosecutor,Assistant United States Attorney,22,african-american,LAW
+9424,Cody Crawford,defendant,,23,religion,OR
 9424,Fara Gold,prosecutor,Trial Attorney,23,religion,OR
+9424,William E. Fitzgerald,prosecutor,Assistant United States Attorney,23,religion,OR
 8849,Colton Partin,defendant,-,24,african-american,TNE
 8849,James Smiley,defendant,-,24,african-american,TNE
 8849,Kyle Montgomery,defendant,-,24,african-american,TNE
@@ -461,12 +461,12 @@
 3571,Joe Magliolo,prosecutor,Assistant United States Attorney,25,african-american,TXS
 3571,Ruben R. Perez,prosecutor,Assistant United States Attorney,25,african-american,TXS
 4038,Conrad Alvin Barrett,defendant,-,25,african-american,TXS
-4038,Ruben R. Perez,prosecutor,Assistant United States Attorney,25,african-american,TXS
 4038,Olimpia Michel,prosecutor,Trial Attorney,25,african-american,TXS
+4038,Ruben R. Perez,prosecutor,Assistant United States Attorney,25,african-american,TXS
 4038,Saeed Mody,prosecutor,Trial Attorney,25,african-american,TXS
-11833,Daniel Earl Danforth,defendant,-,26,race,LAW
-11833,Mary J. Mudrick,prosecutor,Assistant United States Attorney,26,race,LAW
+11833,Daniel Earl Danforth,defendant,,26,race,LAW
 11833,Erin Aslan,prosecutor,Trial Attorney,26,race,LAW
+11833,Mary J. Mudrick,prosecutor,Assistant United States Attorney,26,race,LAW
 1527,Daniel George Fisher,defendant,-,27,religion,MN
 1527,Angela Munoz-Kaphing,prosecutor,Assistant United States Attorney,27,religion,MN
 1527,Olimpia Michel,prosecutor,Trial Attorney,27,religion,MN
@@ -476,29 +476,29 @@
 222,David H. Howard,defendant,-,28,religion,FLM
 222,Josephine W. Thomas,prosecutor,Assistant United States Attorney,28,religion,FLM
 222,William E. Nolan,prosecutor,Trial Attorney,28,religion,FLM
-12543,Devan Klausegger,defendant,-,29,african-american,OR
-12543,Gary Moss,defendant,-,29,african-american,OR
-12543,William E. Fitzgerald,prosecutor,Assistant United States Attorney,29,african-american,OR
+12543,Devan Klausegger,defendant,,29,african-american,OR
+12543,Gary Moss,defendant,,29,african-american,OR
 12543,Roy Conn,prosecutor,Trial Attorney,29,african-american,OR
+12543,William E. Fitzgerald,prosecutor,Assistant United States Attorney,29,african-american,OR
 1496,Diego Martinez,defendant,-,30,–,KS
-1496,Mona Furst,prosecutor,Assistant United States Attorney,30,–,KS
 1496,Jared Fishman,prosecutor,Special Litigation Counsel,30,–,KS
+1496,Mona Furst,prosecutor,Assistant United States Attorney,30,–,KS
 1496,Risa Berkower,prosecutor,Trial Attorney,30,–,KS
-8982,Dustin Hammond,defendant,-,31,race,AKE
-8982,Gary Dodson,defendant,-,31,race,AKE
-8982,Jake Murphy,defendant,-,31,race,AKE
-8982,Jason Barnwell,defendant,-,31,race,AKE
-8982,Wendy Treybig,defendant,-,31,race,AKE
-8982,John Ray White,prosecutor,Assistant United States Attorney,31,race,AKE
+8982,Dustin Hammond,defendant,,31,race,AKE
+8982,Gary Dodson,defendant,,31,race,AKE
+8982,Jake Murphy,defendant,,31,race,AKE
+8982,Jason Barnwell,defendant,,31,race,AKE
+8982,Wendy Treybig,defendant,,31,race,AKE
 8982,Cindy Chung,prosecutor,Trial Attorney,31,race,AKE
 8982,Henry Leventis,prosecutor,Trial Attorney,31,race,AKE
-9413,Dustin Hammond,defendant,-,31,race,AKE
-9413,Gary Dodson,defendant,-,31,race,AKE
-9413,Jake Murphy,defendant,-,31,race,AKE
-9413,Jason Walter Barnwell,defendant,-,31,race,AKE
-9413,Wendy Treybig,defendant,-,31,race,AKE
-9413,John Ray White,prosecutor,Assistant United States Attorney,31,race,AKE
+8982,John Ray White,prosecutor,Assistant United States Attorney,31,race,AKE
+9413,Dustin Hammond,defendant,,31,race,AKE
+9413,Gary Dodson,defendant,,31,race,AKE
+9413,Jake Murphy,defendant,,31,race,AKE
+9413,Jason Walter Barnwell,defendant,,31,race,AKE
+9413,Wendy Treybig,defendant,,31,race,AKE
 9413,Henry Leventis,prosecutor,Trial Attorney,31,race,AKE
+9413,John Ray White,prosecutor,Assistant United States Attorney,31,race,AKE
 3483,Eddie Wright,defendant,-,32,disability,PAE
 3483,Jean McIntosh,defendant,-,32,disability,PAE
 3483,Linda Weston,defendant,-,32,disability,PAE
@@ -509,8 +509,8 @@
 7437,Jean McIntosh,defendant,-,32,disability,PAE
 7437,Linda Weston,defendant,-,32,disability,PAE
 7437,Nicklaus Woodard,defendant,-,32,disability,PAE
-7437,Richard P. Barrett,prosecutor,Assistant United States Attorney,32,disability,PAE
 7437,Betsy Biffle,prosecutor,Trial Attorney,32,disability,PAE
+7437,Richard P. Barrett,prosecutor,Assistant United States Attorney,32,disability,PAE
 6142,"Efren Marquez Jr., aka Stretch and Junior",defendant,-,33,african-american,CAC
 6142,"Jeffrey Aguilar, aka Terco",defendant,-,33,african-american,CAC
 6142,Reema El-Amamy,prosecutor,Assistant United States Attorney,33,african-american,CAC
@@ -525,12 +525,12 @@
 7367,Saeed Mody,prosecutor,Trial Attorney,33,african-american,CAC
 10735,Eric Clawson,defendant,-,34,african-american,CAE
 10735,Joe Grivette,defendant,-,34,african-american,CAE
-10735,Russell Carlberg,prosecutor,Assistant United States Attorney,34,african-american,CAE
 10735,Edward Chung,prosecutor,Trial Attorney,34,african-american,CAE
+10735,Russell Carlberg,prosecutor,Assistant United States Attorney,34,african-american,CAE
 11304,Eric Clawson,defendant,-,34,african-american,CAE
 11304,Joe Grivette,defendant,-,34,african-american,CAE
-11304,Russell Carlberg,prosecutor,Assistant United States Attorney,34,african-american,CAE
 11304,Edward Chung,prosecutor,Trial Attorney,34,african-american,CAE
+11304,Russell Carlberg,prosecutor,Assistant United States Attorney,34,african-american,CAE
 7371,Everett Dwayne Avery,defendant,-,35,lgbt,MIE
 7371,Pamela Thompson,prosecutor,Assistant United States Attorney,35,lgbt,MIE
 7371,Sanjay Patel,prosecutor,Trial Attorney,35,lgbt,MIE
@@ -545,18 +545,18 @@
 5795,Saeed Mody,prosecutor,Trial Attorney,36,lgbt,TXN
 6865,George Allen Mason Jr.,defendant,-,37,lgbt,OR
 6865,Saraya Sophia Lisa Gardner,defendant,-,37,lgbt,OR
-6865,Hannah Horsley,prosecutor,Assistant United States Attorney,37,lgbt,OR
 6865,Fara Gold,prosecutor,Trial Attorney,37,lgbt,OR
-9477,George Thompson,defendant,-,38,immigrant,MN
+6865,Hannah Horsley,prosecutor,Assistant United States Attorney,37,lgbt,OR
+9477,George Thompson,defendant,,38,immigrant,MN
 9477,Ann M. Anaya,prosecutor,Assistant United States Attorney,38,immigrant,MN
 9477,Nicole Lee Ndumele,prosecutor,Trial Attorney,38,immigrant,MN
-10952,Georgia Silva,defendant,-,39,race,CAE
-10952,Joseph Silva,defendant,-,39,race,CAE
-10952,Carolyn K. Delaney,prosecutor,Assistant United States Attorney,39,race,CAE
+10952,Georgia Silva,defendant,,39,race,CAE
+10952,Joseph Silva,defendant,,39,race,CAE
 10952,C. Douglas Kern,prosecutor,Trial Attorney,39,race,CAE
+10952,Carolyn K. Delaney,prosecutor,Assistant United States Attorney,39,race,CAE
 10952,Michael J. Frank,prosecutor,Trial Attorney,39,race,CAE
-12506,Georgia Silva,defendant,-,39,race,CAE
-12506,Joseph Silva,defendant,-,39,race,CAE
+12506,Georgia Silva,defendant,,39,race,CAE
+12506,Joseph Silva,defendant,,39,race,CAE
 12506,Benjamin Wagner,prosecutor,Assistant United States Attorney,39,race,CAE
 12506,Douglas Kern,prosecutor,Trial Attorney,39,race,CAE
 695,Gerald Wallace,defendant,-,40,religion,FLS
@@ -565,32 +565,32 @@
 1139,Gerald Wallace,defendant,-,40,religion,FLS
 1139,"Harry C. Wallace, Jr.",prosecutor,Assistant United States Attorney,40,religion,FLS
 1139,Samantha Trepel,prosecutor,Trial Attorney,40,religion,FLS
-9153,Henry Clay Glaspell,defendant,-,41,religion,TXN
+9153,Henry Clay Glaspell,defendant,,41,religion,TXN
 9153,Alex Lewis,prosecutor,Assistant United States Attorney,41,religion,TXN
 9153,Victor Boutros,prosecutor,Trial Attorney,41,religion,TXN
-10164,Henry Clay Glaspell,defendant,-,41,religion,TXN
+10164,Henry Clay Glaspell,defendant,,41,religion,TXN
 10164,Alex Lewis,prosecutor,Assistant United States Attorney,41,religion,TXN
 10164,Victor Boutros,prosecutor,Trial Attorney,41,religion,TXN
 132,Izmir Koch,defendant,-,42,religion,OHS
-132,Megan Gaffney,prosecutor,Assistant United States Attorney,42,religion,OHS
 132,Gabriel Davis,prosecutor,Trial Attorney,42,religion,OHS
+132,Megan Gaffney,prosecutor,Assistant United States Attorney,42,religion,OHS
 915,James Gonzalo Medina,defendant,-,43,religion,FLS
 915,Marc Anton,prosecutor,Assistant United States Attorney,43,religion,FLS
 915,Michael Thakur,prosecutor,Assistant United States Attorney,43,religion,FLS
 915,Steve Curran,prosecutor,Special Litigation Counsel,43,religion,FLS
 915,Taryn Meeks,prosecutor,Trial Attorney,43,religion,FLS
-11717,James Whitewater,defendant,-,44,african-american,ID
-11717,Jennifer Hartpence,defendant,-,44,african-american,ID
-11717,Michael Bullard,defendant,-,44,african-american,ID
-11717,Richard Armstrong,defendant,-,44,african-american,ID
-11717,Wendy Olson,prosecutor,Assistant United States Attorney,44,african-american,ID
+11717,James Whitewater,defendant,,44,african-american,ID
+11717,Jennifer Hartpence,defendant,,44,african-american,ID
+11717,Michael Bullard,defendant,,44,african-american,ID
+11717,Richard Armstrong,defendant,,44,african-american,ID
 11717,Erin Aslan,prosecutor,Trial Attorney,44,african-american,ID
-12059,James Whitewater,defendant,-,44,african-american,ID
-12059,Jennifer Hartpence,defendant,-,44,african-american,ID
-12059,Michael Bullard,defendant,-,44,african-american,ID
-12059,Richard Armstrong,defendant,-,44,african-american,ID
-12059,Wendy Olson,prosecutor,Assistant United States Attorney,44,african-american,ID
+11717,Wendy Olson,prosecutor,Assistant United States Attorney,44,african-american,ID
+12059,James Whitewater,defendant,,44,african-american,ID
+12059,Jennifer Hartpence,defendant,,44,african-american,ID
+12059,Michael Bullard,defendant,,44,african-american,ID
+12059,Richard Armstrong,defendant,,44,african-american,ID
 12059,Erin Aslan,prosecutor,Trial Attorney,44,african-american,ID
+12059,Wendy Olson,prosecutor,Assistant United States Attorney,44,african-american,ID
 354,James William Hill III,defendant,-,45,lgbt,VAE
 354,S. David Schiller,prosecutor,Assistant United States Attorney,45,lgbt,VAE
 354,Saeed Mody,prosecutor,Trial Attorney,45,lgbt,VAE
@@ -608,32 +608,32 @@
 8774,Jesse Sanford,defendant,-,48,indigenous person,NM
 8774,Paul Beebe,defendant,-,48,indigenous person,NM
 8774,William Hatch,defendant,-,48,indigenous person,NM
-8774,Roberto Ortega,prosecutor,Assistant United States Attorney,48,indigenous person,NM
-8774,Gerard Hogan,prosecutor,Special Litigation Counsel,48,indigenous person,NM
 8774,Fara Gold,prosecutor,Trial Attorney,48,indigenous person,NM
-9446,Jesse Sanford,defendant,-,48,indigenous person,NM
-9446,Paul Beebe,defendant,-,48,indigenous person,NM
-9446,William Hatch,defendant,-,48,indigenous person,NM
-9446,Roberto Ortega,prosecutor,Assistant United States Attorney,48,indigenous person,NM
+8774,Gerard Hogan,prosecutor,Special Litigation Counsel,48,indigenous person,NM
+8774,Roberto Ortega,prosecutor,Assistant United States Attorney,48,indigenous person,NM
+9446,Jesse Sanford,defendant,,48,indigenous person,NM
+9446,Paul Beebe,defendant,,48,indigenous person,NM
+9446,William Hatch,defendant,,48,indigenous person,NM
 9446,Gerard Hogan,prosecutor,Special Litigation Counsel,48,indigenous person,NM
-10501,Jesse Sanford,defendant,-,48,indigenous person,NM
-10501,Paul Beebe,defendant,-,48,indigenous person,NM
-10501,William Hatch,defendant,-,48,indigenous person,NM
-10501,Gerard Hogan,prosecutor,Special Litigation Counsel,48,indigenous person,NM
+9446,Roberto Ortega,prosecutor,Assistant United States Attorney,48,indigenous person,NM
+10501,Jesse Sanford,defendant,,48,indigenous person,NM
+10501,Paul Beebe,defendant,,48,indigenous person,NM
+10501,William Hatch,defendant,,48,indigenous person,NM
 10501,Fara Gold,prosecutor,Trial Attorney,48,indigenous person,NM
+10501,Gerard Hogan,prosecutor,Special Litigation Counsel,48,indigenous person,NM
 7245,John Hall,defendant,-,49,lgbt,TXN
-7245,Errin Martin,prosecutor,Assistant United States Attorney,49,lgbt,TXN
 7245,Adriana Vieco,prosecutor,Trial Attorney,49,lgbt,TXN
+7245,Errin Martin,prosecutor,Assistant United States Attorney,49,lgbt,TXN
 7721,John Hall,defendant,-,49,lgbt,TXN
-7721,Errin Martin,prosecutor,Assistant United States Attorney,49,lgbt,TXN
 7721,Adriana Vieco,prosecutor,Trial Attorney,49,lgbt,TXN
+7721,Errin Martin,prosecutor,Assistant United States Attorney,49,lgbt,TXN
 5878,John W. Ng,defendant,-,50,religion,NM
-5878,Holland S. Kastrin,prosecutor,Assistant United States Attorney,50,religion,NM
 5878,Angie Cha,prosecutor,Trial Attorney,50,religion,NM
+5878,Holland S. Kastrin,prosecutor,Assistant United States Attorney,50,religion,NM
 6039,John W. Ng,defendant,-,50,religion,NM
-6039,Mark T. Baker,prosecutor,Assistant United States Attorney,50,religion,NM
 6039,Aejean Cha,prosecutor,Trial Attorney,50,religion,NM
-11789,Johnny D. Mathis,defendant,-,51,latino,LAW
+6039,Mark T. Baker,prosecutor,Assistant United States Attorney,50,religion,NM
+11789,Johnny D. Mathis,defendant,,51,latino,LAW
 11789,Mary J. Mudrick,prosecutor,Assistant United States Attorney,51,latino,LAW
 11789,Michael J. Frank,prosecutor,Trial Attorney,51,latino,LAW
 6375,Jonathan Caine,defendant,-,52,african-american,TNM
@@ -644,40 +644,40 @@
 5631,Risa Berkower,prosecutor,Trial Attorney,53,african-american,LAE
 1251,Joshua Brandon Vallum,defendant,-,54,lgbt,MSS
 1251,Jay Golden,prosecutor,Assistant United States Attorney,54,lgbt,MSS
-1251,Sheldon L. Beer,prosecutor,Special Litigation Counsel,54,lgbt,MSS
 1251,Julia Gegenheimer,prosecutor,trial Attorney,54,lgbt,MSS
+1251,Sheldon L. Beer,prosecutor,Special Litigation Counsel,54,lgbt,MSS
 1790,Joshua Brandon Vallum,defendant,-,54,lgbt,MSS
-11619,Judson Hartley Talbert,defendant,-,55,african-american,SC
-11619,Thomas Howard Blue Jr.,defendant,-,55,african-american,SC
-11619,Thomas Howard Blue Sr.,defendant,-,55,african-american,SC
+11619,Judson Hartley Talbert,defendant,,55,african-american,SC
+11619,Thomas Howard Blue Jr.,defendant,,55,african-american,SC
+11619,Thomas Howard Blue Sr.,defendant,,55,african-american,SC
 11619,A. Bradley Parham,prosecutor,Assistant United States Attorney,55,african-american,SC
 11619,Michael J. Frank,prosecutor,Trial Attorney,55,african-american,SC
 1314,Kelly Schneider,defendant,-,56,lgbt,ID
 1626,Kelly Schneider,defendant,-,56,lgbt,ID
-1626,Wendy J. Olson,prosecutor,Assistant United States Attorney,56,lgbt,ID
 1626,Aejean Cha,prosecutor,Trial Attorney,56,lgbt,ID
-9259,Frankie Maybee,defendant,-,57,latino,AKW
-9259,Sean Popejoy,defendant,-,57,latino,AKW
-9259,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+1626,Wendy J. Olson,prosecutor,Assistant United States Attorney,56,lgbt,ID
+9259,Frankie Maybee,defendant,,57,latino,AKW
+9259,Sean Popejoy,defendant,,57,latino,AKW
 9259,Cindy Chung,prosecutor,Trial Attorney,57,latino,AKW
 9259,Edward Chung,prosecutor,Trial Attorney,57,latino,AKW
-9803,Frankie Maybee,defendant,-,57,latino,AKW
-9803,Sean Popejoy,defendant,-,57,latino,AKW
-9803,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+9259,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+9803,Frankie Maybee,defendant,,57,latino,AKW
+9803,Sean Popejoy,defendant,,57,latino,AKW
 9803,Edward Chung,prosecutor,Trial Attorney,57,latino,AKW
-9822,Frankie Maybee,defendant,-,57,latino,AKW
-9822,Sean Popejoy,defendant,-,57,latino,AKW
-9822,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+9803,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+9822,Frankie Maybee,defendant,,57,latino,AKW
+9822,Sean Popejoy,defendant,,57,latino,AKW
 9822,Edward Chung,prosecutor,Trial Attorney,57,latino,AKW
-9971,Frankie Maybee,defendant,-,57,latino,AKW
-9971,Sean Popejoy,defendant,-,57,latino,AKW
-9971,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+9822,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
+9971,Frankie Maybee,defendant,,57,latino,AKW
+9971,Sean Popejoy,defendant,,57,latino,AKW
 9971,Edward Chung,prosecutor,Trial Attorney,57,latino,AKW
+9971,Kyra E. Jenner,prosecutor,Assistant United States Attorney,57,latino,AKW
 8906,Kevin William Harpham,defendant,-,58,race,WAE
-9920,Kevin Harpham,defendant,-,58,race,WAE
-9382,Kory Boyd,defendant,-,59,african-american,WAW
-9382,Lawrence Silk,defendant,-,59,african-american,WAW
-9382,Zachary Beck,defendant,-,59,african-american,WAW
+9920,Kevin Harpham,defendant,,58,race,WAE
+9382,Kory Boyd,defendant,,59,african-american,WAW
+9382,Lawrence Silk,defendant,,59,african-american,WAW
+9382,Zachary Beck,defendant,,59,african-american,WAW
 9382,Bruce Miyake,prosecutor,Assistant United States Attorney,59,african-american,WAW
 9382,Edward Caspar,prosecutor,Trial Attorney,59,african-american,WAW
 5592,Macon Openshaw,defendant,-,60,religion,UT
@@ -694,22 +694,22 @@
 129,Rose E. Gibson,prosecutor,Trial Attorney,61,african-american,AZ
 1114,Marq Vincent Perez,defendant,-,62,religion,TX
 1114,Kate Suh,prosecutor,Assistant United States Attorney,62,religion,TX
-1114,Sharad S. Khandelwal,prosecutor,Assistant United States Attorney,62,religion,TX
 1114,Saeed Mody,prosecutor,Trial Attorney,62,religion,TX
-2716,Martin Alan Schnitzler,defendant,-,63,religion,FLM
-2716,Daniel George,prosecutor,Assistant United States Attorney,63,religion,FLM
-2716,Daniel Irick,prosecutor,Assistant United States Attorney,63,religion,FLM
-2716,Gabriel Davis,prosecutor,Trial Attorney,63,religion,FLM
+1114,Sharad S. Khandelwal,prosecutor,Assistant United States Attorney,62,religion,TX
 3090,Martin Alan Schnitzler,defendant,-,63,religion,FLM
 3090,Daniel George,prosecutor,Assistant United States Attorney,63,religion,FLM
 3090,Daniel Irick,prosecutor,Assistant United States Attorney,63,religion,FLM
 3090,Gabriel Davis,prosecutor,Trial Attorney,63,religion,FLM
+2716,Martin Alan Schnitzler,defendant,-,63,religion,FLM
+2716,Daniel George,prosecutor,Assistant United States Attorney,63,religion,FLM
+2716,Daniel Irick,prosecutor,Assistant United States Attorney,63,religion,FLM
+2716,Gabriel Davis,prosecutor,Trial Attorney,63,religion,FLM
 2270,Matthew Gust,defendant,-,64,immigrant,ND
-2270,Megan A. Healy,prosecutor,Assistant United States Attorney,64,immigrant,ND
 2270,Dana Mulhauser,prosecutor,Trial Attorney,64,immigrant,ND
+2270,Megan A. Healy,prosecutor,Assistant United States Attorney,64,immigrant,ND
 2669,Matthew Gust,defendant,-,64,immigrant,ND
-2669,Megan A. Healy,prosecutor,Assistant United States Attorney,64,immigrant,ND
 2669,Dana Mulhauser,prosecutor,Trial Attorney,64,immigrant,ND
+2669,Megan A. Healy,prosecutor,Assistant United States Attorney,64,immigrant,ND
 215,Michael Ron David Kadar,defendant,-,65,religion,FLM
 1339,Michael Ron David Kadar,defendant,-,65,religion,FLM
 2134,Randy Metcalf,defendant,-,66,african-american,IAN
@@ -718,34 +718,34 @@
 2882,Randy Metcalf,defendant,-,66,african-american,IAN
 2882,Anthony Morfitt,prosecutor,Assistant United States Attorney,66,african-american,IAN
 2882,Christopher J. Perras,prosecutor,Trial Attorney,66,african-american,IAN
-10968,Robert Jackson,defendant,-,67,african-american,LAW
+10968,Robert Jackson,defendant,,67,african-american,LAW
 10968,Mary J. Mudrick,prosecutor,Assistant United States Attorney,67,african-american,LAW
 10968,Myesha Braden,prosecutor,Trial Attorney,67,african-american,LAW
-10905,Roland J. Bourgeois Jr,defendant,-,68,african-american,LAE
+10905,Roland J. Bourgeois Jr,defendant,,68,african-american,LAE
 4748,Pamela Morris,defendant,-,69,african-american,ALM
 4748,Steven Joshua Dinkle,defendant,-,69,african-american,ALM
 4748,Thomas Windell Smith,defendant,-,69,african-american,ALM
-4748,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 4748,Chiraag Bains,prosecutor,Trial Attorney,69,african-american,ALM
+4748,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 5693,Pamela Morris,defendant,-,69,african-american,ALM
 5693,Steven Joshua Dinkle,defendant,-,69,african-american,ALM
-5693,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 5693,Chiraag Bains,prosecutor,Trial Attorney,69,african-american,ALM
+5693,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 5788,Steven Joshua Dinkle,defendant,-,69,african-american,ALM
 5788,Thomas Windell Smith,defendant,-,69,african-american,ALM
-5788,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 5788,Chiraag Bains,prosecutor,Trial Attorney,69,african-american,ALM
+5788,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 6168,Steven Joshua Dinkle,defendant,-,69,african-american,ALM
 6168,Thomas Windell Smith,defendant,-,69,african-american,ALM
-6168,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 6168,Chiraag Bains,prosecutor,Trial Attorney,69,african-american,ALM
+6168,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 6338,Thomas Windell Smith,defendant,-,69,african-american,ALM
 6338,Jerusha T. Adams,prosecutor,Assistant United States Attorney,69,african-american,ALM
 6338,Chiraag Bains,prosecutor,Trial Attorney,69,african-american,ALM
-9018,Steven Scott Cantrell,defendant,-,70,african-american,TXW
+9018,Steven Scott Cantrell,defendant,,70,african-american,TXW
 9018,John Klassen,prosecutor,Assistant United States Attorney,70,african-american,TXW
 9018,Victor Boutros,prosecutor,Trial Attorney,70,african-american,TXW
-9381,Steven Scott Cantrell,defendant,-,70,african-american,TXW
+9381,Steven Scott Cantrell,defendant,,70,african-american,TXW
 3468,Troy Deacon Burns,defendant,-,71,lgbt,WAW
 3468,Bruce Miyake,prosecutor,Assistant United States Attorney,71,lgbt,WAW
 3468,Saeed Mody,prosecutor,Trial Attorney,71,lgbt,WAW
@@ -755,7 +755,7 @@
 3891,Troy Deacon Burns,defendant,-,71,lgbt,WAW
 3891,Bruce Miyake,prosecutor,Assistant United States Attorney,71,lgbt,WAW
 3891,Saeed Mody,prosecutor,Trial Attorney,71,lgbt,WAW
-11216,William A. White,defendant,-,72,african-american,VAW
+11216,William A. White,defendant,,72,african-american,VAW
 11216,C. Patrick Hogeboom III,prosecutor,Assistant United States Attorney,72,african-american,VAW
 11216,Cindy Chung,prosecutor,Trial Attorney,72,african-american,VaW
 11216,John Richmond,prosecutor,Trial Attorney,72,african-american,VaW
@@ -767,16 +767,16 @@
 1421,William E. Nolan,prosecutor,Trial Attorney,73,african-american,FLM
 3719,Graeme Phillip Harris,defendant,-,74,african-american,MSN
 5323,Robert Keller,defendant,-,75,african-american,UT
-5323,Carlos Esqueda,prosecutor,Assistant United States Attorney,75,african-american,UT
 5323,Saeed Mody,prosecutor,Trial Attorney,75,african-american,UT
+5323,Carlos Esqueda,prosecutor,Assistant United States Attorney,75,african-american,UT
 8454,Colton L. Partin,defendant,-,76,african-american,TNE
 8454,Kyle C. Montgomery,defendant,-,76,african-american,TNE
 8454,James Smiley,defendant,-,76,african-american,TNE
 8454,Chris Poole,prosecutor,Assistant United States Attorney,76,african-american,TNE
 8454,Myesha Braden,prosecutor,Trial Attorney,76,african-american,TNE
-1399,Justin Cole Whittington,defendant,-,77,latino,CAE
-1399,Brian K. Delayney,prosecutor,Assistant United States Attorney,77,latino,CAE
-1399,Samantha Trepel,prosecutor,Trial Attorney,77,latino,CAE
 1872,Justin Cole Whittington,defendant,-,77,latino,CAE
 1872,Brian K. Delayney,prosecutor,Assistant United States Attorney,77,latino,CAE
 1872,Samantha Trepel,prosecutor,Trial Attorney,77,latino,CAE
+1399,Justin Cole Whittington,defendant,-,77,latino,CAE
+1399,Brian K. Delayney,prosecutor,Assistant United States Attorney,77,latino,CAE
+1399,Samantha Trepel,prosecutor,Trial Attorney,77,latino,CAE
