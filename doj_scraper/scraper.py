@@ -1,19 +1,56 @@
-# import requests
-# import urllib.parse as parse
-# from bs4 import BeautifulSoup
-# import lxml
-# from time import sleep
 # import csv
-# from pathlib import Path
+# import urllib.parse as parse
+from pathlib import Path
+
+# import lxml
+import requests
+
+# from time import sleep
+
+
+# from bs4 import BeautifulSoup
 
 NEWS_URL = "https://www.justice.gov/news"
+STORAGE_DIR = Path.cwd() / "storage"
 
-# In 
+
+def get_news_page_for_year(year: int, page: int):
+    """Get the HTML for a page of press releases for a given year."""
+    payload = {
+        "items_per_page": 50,
+        "f[0]": "type:press_release",
+        "f[1]": f"field_pr_date:{str(year)}",
+        "page": str(page),
+    }
+    response = requests.get(NEWS_URL, params=payload, timeout=10)
+    return response.text
 
 
-# In the past we scraped the DOJ website for press releases. This is no longer necessary as the DOJ has an API that we can use to get the same information.
-LAST_PAGE = 450
-payload = {"items_per_page": 50, "f[0]": "type:press_release", "page": "0"}
+def save_news_page_for_year(year: int, page: int, raw_page: str):
+    """Save the HTML for a page of press releases for a given year."""
+    file_path = STORAGE_DIR / f"{year}" / f"{year}_{page}.html"
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    file_path.touch(exist_ok=True)
+    with file_path.resolve().open("w") as f:
+        f.write(raw_page)
+
+
+# TODO check if file already has been downloaded before saving it.
+
+
+# def get_news_pages_for_year(year: int, last_page: int):
+#     payload = {
+#         "items_per_page": 50,
+#         "f[0]": "type:press_release",
+#         "f[1]": f"field_pr_date:{str(year)}",
+#         "page": "0",
+#     }
+#     page = last_page
+#     while page > -1:
+#         payload["page"] = str(page)
+#         response = requests.get(NEWS_URL, params=payload, timeout=10)
+#         print(response.url)
+#         page -= 1
 
 
 # for i in range(0, 254):
