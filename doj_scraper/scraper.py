@@ -28,7 +28,7 @@ def get_news_page_for_year(year: int, page: int):
 
 def save_news_page_for_year(year: int, page: int, raw_page: str):
     """Save the HTML for a page of press releases for a given year."""
-    file_path = STORAGE_DIR / f"{year}" / f"{year}_{page}.html"
+    file_path = STORAGE_DIR / "news_pages" / f"{year}" / f"{year}_{page}.html"
     file_path.parent.mkdir(parents=True, exist_ok=True)
     file_path.touch(exist_ok=True)
     with file_path.resolve().open("w") as f:
